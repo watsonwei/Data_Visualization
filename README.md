@@ -1,3 +1,4 @@
 # INF 554 Assignment 7
 
-Update this README as needed.
+## Teamname: WeLoveInfVis
+#### Team members: Yi Wei, Yu Ru, Longfei Li
