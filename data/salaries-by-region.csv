@@ -1,321 +1,321 @@
 School Name,Region,State,Starting Median Salary,Mid-Career Median Salary,Mid-Career 10th Percentile Salary,Mid-Career 25th Percentile Salary,Mid-Career 75th Percentile Salary,Mid-Career 90th Percentile Salary
-Stanford University,California,CA,"$70,400.00","$129,000.00","$68,400.00","$93,100.00","$184,000.00","$257,000.00"
-California Institute of Technology (CIT),California,CA,"$75,500.00","$123,000.00",N/A,"$104,000.00","$161,000.00",N/A
-Harvey Mudd College,California,CA,"$71,800.00","$122,000.00",N/A,"$96,000.00","$180,000.00",N/A
-"University of California, Berkeley",California,CA,"$59,900.00","$112,000.00","$59,500.00","$81,000.00","$149,000.00","$201,000.00"
-Occidental College,California,CA,"$51,900.00","$105,000.00",N/A,"$54,800.00","$157,000.00",N/A
-Cal Poly San Luis Obispo,California,CA,"$57,200.00","$101,000.00","$55,000.00","$74,700.00","$133,000.00","$178,000.00"
-University of California at Los Angeles (UCLA),California,CA,"$52,600.00","$101,000.00","$51,300.00","$72,500.00","$139,000.00","$193,000.00"
-"University of California, San Diego (UCSD)",California,CA,"$51,100.00","$101,000.00","$51,700.00","$75,400.00","$131,000.00","$177,000.00"
-Pomona College,California,CA,"$48,600.00","$101,000.00",N/A,"$63,300.00","$161,000.00",N/A
-University of Southern California (USC),California,CA,"$54,800.00","$99,600.00","$49,700.00","$73,800.00","$140,000.00","$201,000.00"
-"University of California, Davis",California,CA,"$52,300.00","$99,600.00","$52,000.00","$71,600.00","$135,000.00","$202,000.00"
-"University of California, Irvine (UCI)",California,CA,"$48,300.00","$96,700.00","$47,800.00","$66,000.00","$123,000.00","$172,000.00"
-San Jose State University (SJSU),California,CA,"$53,500.00","$95,600.00","$50,700.00","$70,500.00","$122,000.00","$156,000.00"
-"University of California, Santa Barbara (UCSB)",California,CA,"$50,500.00","$95,000.00","$51,300.00","$71,200.00","$129,000.00","$173,000.00"
-"California State University (CSU), Chico",California,CA,"$47,400.00","$88,100.00","$46,800.00","$62,800.00","$122,000.00","$154,000.00"
-"California State University, Fullerton (CSUF)",California,CA,"$45,700.00","$87,000.00","$45,400.00","$62,500.00","$119,000.00","$158,000.00"
-San Francisco State University (SFSU),California,CA,"$47,300.00","$86,400.00","$45,100.00","$62,700.00","$114,000.00","$150,000.00"
-San Diego State University (SDSU),California,CA,"$46,200.00","$85,200.00","$45,500.00","$61,800.00","$116,000.00","$158,000.00"
-"California State University, Long Beach (CSULB)",California,CA,"$45,100.00","$84,700.00","$47,400.00","$62,500.00","$113,000.00","$154,000.00"
-"California State University, East Bay (CSUEB)",California,CA,"$49,200.00","$84,300.00","$46,000.00","$62,400.00","$115,000.00","$155,000.00"
-"University of California, Santa Cruz (UCSC)",California,CA,"$44,700.00","$84,100.00","$46,100.00","$62,000.00","$121,000.00","$165,000.00"
-"California State University, Sacramento (CSUS)",California,CA,"$47,800.00","$82,400.00","$42,900.00","$59,600.00","$111,000.00","$154,000.00"
-"University of California, Riverside (UCR)",California,CA,"$46,800.00","$81,300.00","$37,200.00","$59,900.00","$109,000.00","$134,000.00"
-"California State University, Northridge (CSUN)",California,CA,"$45,500.00","$80,400.00","$44,500.00","$57,800.00","$108,000.00","$153,000.00"
-"California State University, Dominguez Hills (CSUDH)",California,CA,"$42,700.00","$72,100.00","$30,800.00","$47,000.00","$92,200.00","$132,000.00"
-"California State University (CSU), Stanislaus",California,CA,"$38,000.00","$71,400.00",N/A,"$50,500.00","$94,100.00",N/A
-Humboldt State University,California,CA,"$42,600.00","$71,300.00","$36,000.00","$56,300.00","$94,400.00","$117,000.00"
-Thomas Aquinas College,California,CA,"$41,500.00","$67,500.00",N/A,"$44,600.00","$93,100.00",N/A
-Colorado School of Mines,Western,CO,"$58,100.00","$106,000.00","$62,200.00","$87,900.00","$142,000.00","$201,000.00"
-University of Colorado - Boulder (UCB),Western,CO,"$47,100.00","$97,600.00","$51,600.00","$69,000.00","$128,000.00","$187,000.00"
-New Mexico Institute of Mining and Technology (New Mexico Tech),Western,NM,"$51,000.00","$93,400.00",N/A,"$67,400.00","$123,000.00",N/A
-Brigham Young University (BYU),Western,UT,"$49,400.00","$88,600.00","$50,600.00","$68,500.00","$119,000.00","$164,000.00"
-University of Arizona,Western,AZ,"$47,500.00","$86,100.00","$44,800.00","$61,700.00","$117,000.00","$160,000.00"
-University of Washington (UW),Western,WA,"$48,800.00","$85,300.00","$47,000.00","$59,800.00","$115,000.00","$149,000.00"
-Washington State University (WSU),Western,WA,"$45,300.00","$84,700.00","$43,600.00","$59,000.00","$113,000.00","$162,000.00"
-University of Colorado - Denver,Western,CO,"$46,100.00","$84,400.00","$46,400.00","$58,600.00","$105,000.00","$144,000.00"
-Arizona State University (ASU),Western,AZ,"$47,400.00","$84,100.00","$44,600.00","$60,700.00","$114,000.00","$163,000.00"
-Oregon State University (OSU),Western,OR,"$45,100.00","$83,300.00","$46,900.00","$64,000.00","$113,000.00","$146,000.00"
-University of Utah,Western,UT,"$45,400.00","$83,200.00","$43,000.00","$58,400.00","$116,000.00","$148,000.00"
-"University of Nevada, Reno (UNR)",Western,NV,"$46,500.00","$82,900.00","$41,900.00","$54,600.00","$113,000.00","$143,000.00"
-Seattle University,Western,WA,"$48,300.00","$82,800.00","$50,600.00","$62,400.00","$110,000.00","$150,000.00"
-University of Idaho,Western,ID,"$44,900.00","$82,000.00","$43,000.00","$56,700.00","$104,000.00","$142,000.00"
-University of New Mexico (UNM),Western,NM,"$41,600.00","$81,600.00","$41,800.00","$59,100.00","$105,000.00","$141,000.00"
-University of Puget Sound,Western,WA,"$46,600.00","$81,500.00","$48,900.00","$60,100.00","$104,000.00","$137,000.00"
-Colorado College (CC),Western,CO,"$38,500.00","$81,400.00",N/A,"$43,000.00","$148,000.00",N/A
-Reed College,Western,OR,"$40,500.00","$81,100.00",N/A,"$67,400.00","$101,000.00",N/A
-Whitman College,Western,WA,"$43,500.00","$80,100.00",N/A,"$64,800.00","$111,000.00",N/A
-New Mexico State University,Western,NM,"$44,300.00","$79,500.00","$37,400.00","$53,800.00","$102,000.00","$131,000.00"
-Colorado State University (CSU),Western,CO,"$44,800.00","$79,000.00","$43,800.00","$57,100.00","$112,000.00","$150,000.00"
-University of Wyoming (UW),Western,WY,"$44,500.00","$78,700.00","$41,500.00","$54,000.00","$105,000.00","$145,000.00"
-Utah State University,Western,UT,"$43,800.00","$78,700.00","$41,600.00","$55,400.00","$101,000.00","$132,000.00"
-University of Oregon,Western,OR,"$42,200.00","$78,400.00","$38,100.00","$56,200.00","$117,000.00","$186,000.00"
-Montana State University - Bozeman,Western,MT,"$46,600.00","$77,500.00","$40,200.00","$58,100.00","$111,000.00","$151,000.00"
-Gonzaga University,Western,WA,"$44,900.00","$76,000.00","$47,000.00","$57,400.00","$103,000.00","$138,000.00"
-University of Hawaii,Western,HI,"$43,800.00","$76,000.00","$40,400.00","$56,300.00","$104,000.00","$128,000.00"
-Western Washington University,Western,WA,"$42,700.00","$75,400.00","$41,300.00","$56,700.00","$99,200.00","$119,000.00"
-Regis University,Western,CO,"$48,300.00","$73,800.00","$41,000.00","$55,500.00","$94,800.00","$117,000.00"
-Idaho State University,Western,ID,"$44,900.00","$73,400.00","$35,400.00","$49,600.00","$101,000.00","$143,000.00"
-"University of Alaska, Anchorage",Western,AK,"$45,900.00","$72,600.00","$39,800.00","$56,600.00","$99,300.00","$137,000.00"
-Lewis & Clark College,Western,OR,"$38,900.00","$72,600.00","$38,200.00","$53,400.00","$104,000.00","$140,000.00"
-University of Montana,Western,MT,"$37,300.00","$71,900.00","$37,000.00","$51,500.00","$96,400.00","$138,000.00"
-"University of Nevada, Las Vegas (UNLV)",Western,NV,"$45,200.00","$71,600.00","$39,000.00","$52,400.00","$100,000.00","$128,000.00"
-Portland State University (PSU),Western,OR,"$42,600.00","$70,900.00","$40,700.00","$52,300.00","$94,400.00","$123,000.00"
-Eastern Washington University,Western,WA,"$38,600.00","$70,900.00","$36,000.00","$50,500.00","$93,100.00","$117,000.00"
-Fort Lewis College,Western,CO,"$42,000.00","$69,800.00",N/A,"$55,000.00","$94,000.00",N/A
-Boise State University (BSU),Western,ID,"$40,800.00","$69,500.00","$37,400.00","$48,700.00","$87,500.00","$110,000.00"
-Utah Valley State College,Western,UT,"$42,400.00","$67,100.00",N/A,"$44,100.00","$84,900.00",N/A
-Evergreen State College,Western,WA,"$39,500.00","$63,900.00","$38,800.00","$47,200.00","$91,600.00","$120,000.00"
-Southern Utah University,Western,UT,"$41,900.00","$56,500.00",N/A,"$39,700.00","$78,400.00",N/A
-Montana State University - Billings,Western,MT,"$37,900.00","$50,600.00",N/A,"$31,800.00","$78,500.00",N/A
-University of Notre Dame,Midwestern,IN,"$56,300.00","$116,000.00","$66,400.00","$85,100.00","$163,000.00","$235,000.00"
-University Of Chicago,Midwestern,IL,"$53,400.00","$113,000.00","$62,200.00","$83,300.00","$174,000.00","$255,000.00"
-Carleton College,Midwestern,MN,"$47,500.00","$103,000.00",N/A,"$69,400.00","$141,000.00",N/A
-Illinois Institute of Technology (IIT),Midwestern,IL,"$56,000.00","$97,800.00","$56,100.00","$77,400.00","$121,000.00","$165,000.00"
-Case Western Reserve University,Midwestern,OH,"$56,200.00","$96,500.00","$54,900.00","$76,500.00","$123,000.00","$168,000.00"
-University of Illinois at Urbana-Champaign (UIUC),Midwestern,IL,"$52,900.00","$96,100.00","$48,200.00","$68,900.00","$132,000.00","$177,000.00"
-Northwestern University,Midwestern,IL,"$52,700.00","$95,900.00","$51,900.00","$69,100.00","$144,000.00","$205,000.00"
-University of Missouri - Rolla (UMR),Midwestern,MO,"$57,100.00","$95,800.00","$67,600.00","$80,400.00","$122,000.00","$166,000.00"
-South Dakota School of Mines & Technology,Midwestern,SD,"$55,800.00","$93,400.00","$71,500.00","$81,900.00","$122,000.00","$147,000.00"
-University of Michigan,Midwestern,MI,"$52,700.00","$93,000.00","$50,900.00","$69,400.00","$128,000.00","$182,000.00"
-Purdue University,Midwestern,ID,"$51,400.00","$90,500.00","$49,900.00","$67,400.00","$121,000.00","$168,000.00"
-Marquette University,Midwestern,WI,"$48,500.00","$88,400.00","$49,500.00","$67,400.00","$121,000.00","$184,000.00"
-DePauw University,Midwestern,ID,"$41,400.00","$88,200.00","$49,500.00","$57,400.00","$133,000.00","$185,000.00"
-University of Wisconsin (UW) - Madison,Midwestern,WI,"$48,900.00","$87,800.00","$47,400.00","$62,400.00","$118,000.00","$170,000.00"
-Bradley University,Midwestern,IL,"$47,000.00","$87,300.00","$45,900.00","$64,900.00","$113,000.00","$151,000.00"
-St. Olaf College,Midwestern,MN,"$45,300.00","$86,200.00","$41,300.00","$61,000.00","$120,000.00","$185,000.00"
-Michigan State University (MSU),Midwestern,MI,"$46,300.00","$85,300.00","$44,200.00","$61,500.00","$119,000.00","$170,000.00"
-DePaul University,Midwestern,IL,"$46,400.00","$84,800.00","$50,300.00","$63,900.00","$115,000.00","$160,000.00"
-Iowa State University,Midwestern,IA,"$45,400.00","$84,600.00","$44,400.00","$60,000.00","$109,000.00","$147,000.00"
-University of Minnesota,Midwestern,MN,"$46,200.00","$84,200.00","$49,000.00","$63,200.00","$112,000.00","$148,000.00"
-"Indiana University (IU), Bloomington",Midwestern,ID,"$46,300.00","$84,000.00","$43,600.00","$60,400.00","$119,000.00","$178,000.00"
-University of Iowa (UI),Midwestern,IA,"$44,700.00","$83,900.00","$43,300.00","$61,100.00","$116,000.00","$163,000.00"
-Ohio State University (OSU),Midwestern,OH,"$44,900.00","$83,700.00","$45,500.00","$60,700.00","$116,000.00","$162,000.00"
-Denison University,Midwestern,OH,"$42,000.00","$83,500.00",N/A,"$62,100.00","$122,000.00",N/A
-University of Illinois at Chicago,Midwestern,IL,"$47,500.00","$81,700.00","$44,700.00","$58,800.00","$110,000.00","$146,000.00"
-Oberlin College,Midwestern,OH,"$43,400.00","$81,600.00",N/A,"$46,400.00","$128,000.00",N/A
-University of Kansas,Midwestern,KS,"$42,400.00","$81,600.00","$44,800.00","$57,200.00","$115,000.00","$156,000.00"
-University of Missouri - Columbia,Midwestern,MO,"$41,700.00","$81,000.00","$43,500.00","$57,100.00","$111,000.00","$156,000.00"
-University of Nebraska,Midwestern,NE,"$45,700.00","$80,900.00","$42,200.00","$56,600.00","$113,000.00","$156,000.00"
-Northern Illinois University (NIU),Midwestern,IL,"$43,600.00","$80,800.00","$43,900.00","$60,200.00","$111,000.00","$161,000.00"
-Gustavus Adolphus College,Midwestern,MN,"$44,500.00","$80,600.00",N/A,"$49,300.00","$101,000.00",N/A
-University of North Dakota,Midwestern,ND,"$44,000.00","$80,600.00","$43,400.00","$56,400.00","$111,000.00","$157,000.00"
-Kansas State University (KSU),Midwestern,KS,"$43,300.00","$79,000.00","$37,200.00","$54,100.00","$106,000.00","$138,000.00"
-University of Wisconsin (UW) - Platteville,Midwestern,WI,"$45,800.00","$78,500.00","$48,400.00","$61,200.00","$100,000.00","$139,000.00"
-Wittenberg University,Midwestern,OH,"$39,200.00","$78,200.00",N/A,"$54,100.00","$131,000.00",N/A
-North Dakota State University (NDSU),Midwestern,ND,"$45,100.00","$77,800.00","$39,000.00","$55,800.00","$100,000.00","$123,000.00"
-Grinnell College,Midwestern,IA,"$42,600.00","$76,600.00",N/A,"$65,100.00","$116,000.00",N/A
-Wayne State University,Midwestern,MI,"$42,800.00","$76,100.00","$40,100.00","$56,200.00","$101,000.00","$139,000.00"
-University of Toledo,Midwestern,OH,"$43,100.00","$75,900.00","$40,100.00","$54,100.00","$100,000.00","$133,000.00"
-University of Wisconsin (UW) - Whitewater,Midwestern,WI,"$40,800.00","$75,500.00","$38,200.00","$53,500.00","$99,300.00","$150,000.00"
-Minnesota State University - Mankato,Midwestern,MN,"$43,300.00","$74,700.00","$39,500.00","$53,800.00","$95,700.00","$140,000.00"
-University of Wisconsin (UW) - Milwaukee,Midwestern,WI,"$42,300.00","$74,600.00","$40,600.00","$54,000.00","$93,700.00","$123,000.00"
-Western Michigan University (WMU),Midwestern,MI,"$42,300.00","$73,800.00","$40,100.00","$52,500.00","$103,000.00","$135,000.00"
-South Dakota State University (SDSU),Midwestern,SD,"$41,100.00","$73,500.00","$34,100.00","$49,900.00","$99,400.00","$129,000.00"
-Ohio University,Midwestern,OH,"$42,200.00","$73,400.00","$36,600.00","$52,800.00","$106,000.00","$150,000.00"
-Illinois State University,Midwestern,IL,"$42,000.00","$73,400.00","$39,100.00","$55,200.00","$105,000.00","$142,000.00"
-Cleveland State University,Midwestern,OH,"$43,500.00","$73,100.00","$39,500.00","$51,600.00","$97,000.00","$137,000.00"
-University of Nebraska at Omaha,Midwestern,NE,"$41,500.00","$72,600.00","$39,500.00","$54,400.00","$97,400.00","$126,000.00"
-Southern Illinois University Carbondale,Midwestern,IL,"$43,000.00","$72,500.00","$38,300.00","$51,300.00","$99,300.00","$139,000.00"
-Eastern Michigan University,Midwestern,MI,"$40,300.00","$72,100.00","$37,900.00","$52,800.00","$95,400.00","$135,000.00"
-Bowling Green State University,Midwestern,OH,"$39,800.00","$72,100.00","$38,200.00","$51,800.00","$101,000.00","$146,000.00"
-St. Cloud State University,Midwestern,MN,"$41,800.00","$71,400.00","$38,700.00","$49,400.00","$101,000.00","$126,000.00"
-University of Wisconsin (UW) - Parkside,Midwestern,WI,"$40,700.00","$71,400.00","$40,900.00","$53,100.00","$84,900.00","$119,000.00"
-University of Akron,Midwestern,OH,"$41,100.00","$70,300.00","$40,600.00","$53,300.00","$95,200.00","$127,000.00"
-Missouri State University (MSU),Midwestern,MO,"$36,100.00","$69,500.00","$33,300.00","$46,900.00","$102,000.00","$134,000.00"
-University of Wisconsin (UW) - La Crosse,Midwestern,WI,"$42,200.00","$69,300.00","$37,500.00","$47,200.00","$93,100.00","$133,000.00"
-University of Wisconsin (UW) - Stout,Midwestern,WI,"$43,600.00","$68,300.00","$40,900.00","$50,600.00","$91,600.00","$136,000.00"
-Robert Morris College (RMC),Midwestern,IL,"$38,500.00","$68,200.00","$37,300.00","$47,100.00","$95,000.00","$128,000.00"
-University of Missouri - St. Louis (UMSL),Midwestern,MO,"$41,400.00","$67,100.00","$36,800.00","$49,600.00","$97,600.00","$144,000.00"
-University of Wisconsin (UW) - Oshkosh,Midwestern,WI,"$39,300.00","$66,400.00","$37,700.00","$49,700.00","$90,100.00","$138,000.00"
-University of Missouri - Kansas City (UMKC),Midwestern,MO,"$38,900.00","$65,800.00","$36,300.00","$48,100.00","$95,800.00","$124,000.00"
-University of Wisconsin (UW) - Eau Claire,Midwestern,WI,"$41,400.00","$64,800.00","$35,000.00","$47,300.00","$93,100.00","$125,000.00"
-Ball State University (BSU),Midwestern,IN,"$39,100.00","$64,500.00","$35,500.00","$48,200.00","$89,300.00","$128,000.00"
-Park University,Midwestern,MO,"$44,300.00","$64,300.00","$37,200.00","$45,600.00","$86,400.00","$113,000.00"
-University of Wisconsin (UW) - Stevens Point,Midwestern,WI,"$39,800.00","$64,000.00","$38,400.00","$45,100.00","$95,400.00","$128,000.00"
-Kent State University,Midwestern,OH,"$38,700.00","$62,600.00","$36,100.00","$45,800.00","$87,000.00","$124,000.00"
-University of Wisconsin (UW) - Green Bay,Midwestern,WI,"$35,800.00","$60,600.00","$35,500.00","$46,800.00","$81,800.00","$102,000.00"
-Indiana Wesleyan University (IWU),Midwestern,IN,"$39,800.00","$58,500.00","$39,600.00","$47,800.00","$78,600.00","$93,400.00"
-Pittsburg State University,Midwestern,KS,"$40,400.00","$58,200.00","$25,600.00","$46,000.00","$84,600.00","$117,000.00"
-Davenport University,Midwestern,MI,"$39,700.00","$46,600.00","$31,600.00","$38,100.00","$65,600.00","$85,700.00"
-Black Hills State University,Midwestern,SD,"$35,300.00","$43,900.00",N/A,"$32,200.00","$60,900.00",N/A
-Rice University,Southern,TX,"$64,000.00","$110,000.00","$55,900.00","$82,100.00","$141,000.00","$216,000.00"
-Georgetown University,Southern,DC,"$55,000.00","$110,000.00","$60,300.00","$85,800.00","$174,000.00","$248,000.00"
-Duke University,Southern,NC,"$58,900.00","$106,000.00","$56,000.00","$77,400.00","$149,000.00","$218,000.00"
-Georgia Institute of Technology,Southern,GA,"$58,300.00","$106,000.00","$67,200.00","$85,200.00","$137,000.00","$183,000.00"
-Washington and Lee University,Southern,VA,"$53,600.00","$104,000.00",N/A,"$82,800.00","$146,000.00",N/A
-Vanderbilt University,Southern,TN,"$51,200.00","$104,000.00","$49,900.00","$68,100.00","$147,000.00","$222,000.00"
-Davidson College,Southern,NC,"$46,100.00","$104,000.00",N/A,"$70,500.00","$146,000.00",N/A
-University of Virginia (UVA),Southern,VA,"$52,700.00","$103,000.00","$52,200.00","$71,800.00","$146,000.00","$215,000.00"
-George Washington University (GWU),Southern,DC,"$47,000.00","$97,900.00","$48,400.00","$69,600.00","$132,000.00","$194,000.00"
-Texas A&M University,Southern,TX,"$49,700.00","$96,100.00","$51,100.00","$71,300.00","$131,000.00","$171,000.00"
-Tulane University,Southern,LA,"$49,100.00","$95,800.00","$46,500.00","$64,400.00","$134,000.00","$185,000.00"
-Virginia Polytechnic Institute and State University (Virginia Tech),Southern,VA,"$53,500.00","$95,400.00","$50,600.00","$71,400.00","$124,000.00","$163,000.00"
-"University of Maryland, College Park",Southern,MD,"$52,000.00","$95,000.00","$50,400.00","$68,300.00","$126,000.00","$166,000.00"
-University of Richmond,Southern,VA,"$48,600.00","$94,600.00","$44,500.00","$59,400.00","$151,000.00","$211,000.00"
-University of Texas (UT) - Austin,Southern,TX,"$49,700.00","$93,900.00","$50,100.00","$67,400.00","$129,000.00","$188,000.00"
-Emory University,Southern,GA,"$52,000.00","$91,600.00","$52,500.00","$63,300.00","$128,000.00","$192,000.00"
-"American University, Washington D.C.",Southern,DC,"$45,300.00","$90,800.00","$45,200.00","$62,400.00","$134,000.00","$169,000.00"
-University of Tulsa,Southern,OK,"$42,400.00","$88,700.00","$42,300.00","$60,300.00","$120,000.00","$197,000.00"
-Baylor University,Southern,TX,"$48,300.00","$88,600.00","$46,300.00","$60,700.00","$130,000.00","$200,000.00"
-University of Florida (UF),Southern,FL,"$47,100.00","$87,900.00","$45,400.00","$62,900.00","$120,000.00","$172,000.00"
-Louisiana State University (LSU),Southern,LA,"$46,900.00","$87,800.00","$43,700.00","$61,300.00","$120,000.00","$165,000.00"
-George Mason University,Southern,VA,"$47,800.00","$86,900.00","$51,300.00","$67,200.00","$114,000.00","$150,000.00"
-Clemson University,Southern,SC,"$48,400.00","$86,000.00","$50,500.00","$61,800.00","$111,000.00","$150,000.00"
-University of Georgia (UGA),Southern,GA,"$44,100.00","$86,000.00","$43,100.00","$57,800.00","$118,000.00","$164,000.00"
-Auburn University,Southern,AL,"$45,400.00","$84,700.00","$45,400.00","$62,700.00","$109,000.00","$145,000.00"
-University of Delaware,Southern,DE,"$45,900.00","$84,500.00","$44,500.00","$64,000.00","$119,000.00","$165,000.00"
-Randolph-Macon College,Southern,VA,"$42,600.00","$83,600.00",N/A,"$54,100.00","$123,000.00",N/A
-North Carolina State University (NCSU),Southern,NC,"$47,200.00","$83,300.00","$49,200.00","$64,800.00","$112,000.00","$153,000.00"
-University of Oklahoma,Southern,OK,"$44,700.00","$82,900.00","$41,200.00","$60,300.00","$114,000.00","$167,000.00"
-University of Arkansas,Southern,AR,"$44,100.00","$82,800.00","$43,200.00","$60,700.00","$113,000.00","$160,000.00"
-University of Alabama at Huntsville (UAH),Southern,AL,"$43,100.00","$82,700.00","$46,100.00","$67,800.00","$106,000.00","$132,000.00"
-Howard University,Southern,DC,"$46,900.00","$81,800.00","$43,300.00","$60,000.00","$109,000.00","$138,000.00"
-University of North Carolina at Chapel Hill (UNCH),Southern,NC,"$42,900.00","$81,500.00","$43,400.00","$57,500.00","$117,000.00","$155,000.00"
-"University of Alabama, Tuscaloosa",Southern,AL,"$41,300.00","$81,400.00","$40,100.00","$56,500.00","$117,000.00","$161,000.00"
-University of Texas at Arlington (UTA),Southern,TX,"$45,400.00","$80,800.00","$46,400.00","$61,200.00","$106,000.00","$138,000.00"
-Oklahoma State University,Southern,OK,"$42,800.00","$80,700.00","$40,100.00","$56,500.00","$114,000.00","$151,000.00"
-Tennessee Technological University,Southern,TN,"$46,200.00","$80,000.00","$42,100.00","$62,600.00","$99,500.00","$121,000.00"
-University of Houston (UH),Southern,TX,"$46,000.00","$79,900.00","$42,000.00","$56,200.00","$106,000.00","$141,000.00"
-University of Mississippi,Southern,MS,"$41,400.00","$79,700.00","$40,400.00","$53,500.00","$108,000.00","$186,000.00"
-Lamar University,Southern,TX,"$46,500.00","$79,400.00","$38,700.00","$51,600.00","$114,000.00","$158,000.00"
-Mississippi State University (MSU),Southern,MS,"$44,500.00","$79,300.00","$43,300.00","$58,800.00","$108,000.00","$151,000.00"
-University of Kentucky (UK),Southern,KY,"$42,800.00","$78,300.00","$43,000.00","$57,300.00","$107,000.00","$149,000.00"
-Texas Christian University (TCU),Southern,TX,"$45,100.00","$78,100.00","$42,600.00","$56,600.00","$122,000.00","$183,000.00"
-West Virginia University (WVU),Southern,WV,"$43,100.00","$78,100.00","$39,700.00","$55,700.00","$106,000.00","$141,000.00"
-University of Maryland Baltimore County (UMBC),Southern,MD,"$47,000.00","$77,800.00","$46,900.00","$59,100.00","$105,000.00","$130,000.00"
-University of Louisiana (UL) at Lafayette,Southern,LA,"$41,100.00","$76,300.00","$42,000.00","$54,500.00","$107,000.00","$163,000.00"
-Florida International University (FIU),Southern,FL,"$43,200.00","$75,500.00","$40,500.00","$55,800.00","$98,200.00","$136,000.00"
-University of Tennessee,Southern,TN,"$43,800.00","$74,600.00","$41,900.00","$53,200.00","$106,000.00","$153,000.00"
-University of Arkansas - Monticello (UAM),Southern,AR,"$39,200.00","$74,500.00",N/A,"$46,100.00","$110,000.00",N/A
-University of North Carolina at Charlotte (UNCC),Southern,NC,"$43,100.00","$74,000.00","$38,200.00","$53,200.00","$99,500.00","$133,000.00"
-Georgia State University,Southern,LA,"$41,800.00","$74,000.00","$43,000.00","$55,300.00","$99,900.00","$145,000.00"
-LeTourneau University,Southern,TX,"$49,500.00","$73,800.00","$41,200.00","$52,700.00","$95,200.00","$126,000.00"
-Florida State University (FSU),Southern,FL,"$42,100.00","$73,000.00","$39,600.00","$52,800.00","$107,000.00","$156,000.00"
-University of Texas at El Paso (UTEP),Southern,TX,"$43,400.00","$72,100.00","$37,700.00","$50,400.00","$99,500.00","$133,000.00"
-University of Central Florida (UCF),Southern,FL,"$42,600.00","$71,700.00","$39,500.00","$51,500.00","$98,400.00","$125,000.00"
-University of South Carolina,Southern,SC,"$40,000.00","$71,700.00","$36,300.00","$49,900.00","$98,400.00","$131,000.00"
-Florida Atlantic University (FAU),Southern,FL,"$42,600.00","$71,100.00","$40,700.00","$53,000.00","$99,500.00","$137,000.00"
-University of South Florida (USF),Southern,FL,"$41,100.00","$71,100.00","$39,600.00","$51,500.00","$98,100.00","$131,000.00"
-University of Texas at San Antonio (UTSA),Southern,TX,"$42,500.00","$70,700.00","$39,100.00","$49,800.00","$92,700.00","$121,000.00"
-University of Alabama at Birmingham (UAB),Southern,AL,"$39,200.00","$70,100.00","$43,000.00","$53,400.00","$91,400.00","$125,000.00"
-University of Memphis (U of M),Southern,TN,"$41,400.00","$69,700.00","$36,100.00","$49,100.00","$93,500.00","$127,000.00"
-Appalachian State University,Southern,NC,"$40,400.00","$69,100.00","$37,200.00","$50,400.00","$90,800.00","$115,000.00"
-Virginia Commonwealth University (VCU),Southern,VA,"$42,000.00","$68,400.00","$37,400.00","$51,900.00","$100,000.00","$123,000.00"
-East Carolina University (ECU),Southern,NC,"$40,200.00","$67,500.00","$38,400.00","$52,000.00","$98,700.00","$151,000.00"
-Western Carolina University,Southern,NC,"$36,900.00","$66,600.00","$39,000.00","$49,500.00","$94,400.00","$133,000.00"
-Jacksonville University,Southern,FL,"$46,700.00","$66,200.00","$36,700.00","$47,200.00","$88,500.00","$121,000.00"
-University of North Carolina at Wilmington (UNCW),Southern,NC,"$37,500.00","$64,400.00","$32,100.00","$46,600.00","$97,100.00","$129,000.00"
-Oklahoma City University,Southern,OK,"$40,000.00","$64,300.00",N/A,"$45,400.00","$80,600.00",N/A
-Arkansas State University (ASU),Southern,AR,"$38,700.00","$63,300.00","$33,600.00","$45,300.00","$83,900.00","$118,000.00"
-Tarleton State University (TSU),Southern,TX,"$40,800.00","$62,400.00","$32,100.00","$47,400.00","$80,400.00","$126,000.00"
-Morehead State University,Southern,KY,"$34,800.00","$60,600.00","$34,300.00","$46,500.00","$72,000.00","$91,300.00"
-Mississippi College,Southern,MS,"$35,400.00","$60,400.00",N/A,"$43,900.00","$80,400.00",N/A
-Dallas Baptist University,Southern,TX,"$39,400.00","$60,200.00","$38,500.00","$50,300.00","$81,800.00","$98,100.00"
-Austin Peay State University,Southern,TN,"$37,700.00","$59,200.00","$32,200.00","$40,500.00","$73,900.00","$96,200.00"
-Saint Leo University,Southern,FL,"$40,900.00","$57,800.00","$34,400.00","$41,800.00","$80,600.00","$113,000.00"
-Tusculum College,Southern,TN,"$36,900.00","$55,500.00","$36,200.00","$43,000.00","$87,300.00","$124,000.00"
-Virginia Wesleyan College (VWC),Southern,VA,"$34,600.00","$54,900.00",N/A,"$37,100.00","$88,900.00",N/A
-"Lee University (Cleveland, TN)",Southern,TN,"$34,500.00","$53,900.00",N/A,"$44,500.00","$76,800.00",N/A
-Florida Metropolitan University (FMU),Southern,FL,"$36,600.00","$51,000.00","$32,800.00","$36,800.00","$70,400.00","$102,000.00"
-Dartmouth College,Northeastern,NH,"$58,000.00","$134,000.00","$63,100.00","$90,200.00","$234,000.00","$321,000.00"
-Princeton University,Northeastern,NJ,"$66,500.00","$131,000.00","$68,900.00","$100,000.00","$190,000.00","$261,000.00"
-Massachusetts Institute of Technology (MIT),Northeastern,MA,"$72,200.00","$126,000.00","$76,800.00","$99,200.00","$168,000.00","$220,000.00"
-Yale University,Northeastern,CT,"$59,100.00","$126,000.00","$58,000.00","$80,600.00","$198,000.00","$326,000.00"
-Harvard University,Northeastern,MA,"$63,400.00","$124,000.00","$54,800.00","$86,200.00","$179,000.00","$288,000.00"
-University of Pennsylvania,Northeastern,PA,"$60,900.00","$120,000.00","$55,900.00","$79,200.00","$192,000.00","$282,000.00"
-"Polytechnic University of New York, Brooklyn",Northeastern,NY,"$62,400.00","$114,000.00","$66,800.00","$94,300.00","$143,000.00","$190,000.00"
-Cooper Union,Northeastern,NY,"$62,200.00","$114,000.00",N/A,"$80,200.00","$142,000.00",N/A
-Worcester Polytechnic Institute (WPI),Northeastern,MA,"$61,000.00","$114,000.00","$80,000.00","$91,200.00","$137,000.00","$180,000.00"
-Carnegie Mellon University (CMU),Northeastern,PA,"$61,800.00","$111,000.00","$63,300.00","$80,100.00","$150,000.00","$209,000.00"
-Rensselaer Polytechnic Institute (RPI),Northeastern,NY,"$61,100.00","$110,000.00","$71,600.00","$85,500.00","$140,000.00","$182,000.00"
-Cornell University,Northeastern,NY,"$60,300.00","$110,000.00","$56,800.00","$79,800.00","$160,000.00","$210,000.00"
-Bucknell University,Northeastern,PA,"$54,100.00","$110,000.00","$62,800.00","$80,600.00","$156,000.00","$251,000.00"
-Brown University,Northeastern,RI,"$56,200.00","$109,000.00","$55,400.00","$74,400.00","$159,000.00","$228,000.00"
-Colgate University,Northeastern,NY,"$52,800.00","$108,000.00","$60,000.00","$76,700.00","$167,000.00","$265,000.00"
-Columbia University,Northeastern,NY,"$59,400.00","$107,000.00","$50,300.00","$71,900.00","$161,000.00","$241,000.00"
-Amherst College,Northeastern,MA,"$54,500.00","$107,000.00",N/A,"$84,900.00","$162,000.00",N/A
-Lafayette College,Northeastern,PA,"$53,900.00","$107,000.00","$70,600.00","$79,300.00","$144,000.00","$204,000.00"
-Bowdoin College,Northeastern,ME,"$48,100.00","$107,000.00",N/A,"$74,600.00","$146,000.00",N/A
-College of the Holy Cross,Northeastern,MA,"$50,200.00","$106,000.00",N/A,"$65,600.00","$143,000.00",N/A
-Stevens Institute of Technology,Northeastern,NJ,"$60,600.00","$105,000.00","$68,700.00","$81,900.00","$138,000.00","$185,000.00"
-Lehigh University,Northeastern,PA,"$59,200.00","$105,000.00","$69,500.00","$85,000.00","$160,000.00","$229,000.00"
-Swarthmore College,Northeastern,PA,"$49,700.00","$104,000.00",N/A,"$67,200.00","$167,000.00",N/A
-Boston College,Northeastern,MA,"$52,700.00","$103,000.00","$48,900.00","$70,000.00","$143,000.00","$195,000.00"
-Williams College,Northeastern,MA,"$51,700.00","$102,000.00",N/A,"$76,400.00","$143,000.00",N/A
-Villanova University,Northeastern,PA,"$55,800.00","$101,000.00","$56,800.00","$76,200.00","$156,000.00","$226,000.00"
-Fordham University,Northeastern,NY,"$47,800.00","$99,900.00","$48,600.00","$65,900.00","$142,000.00","$198,000.00"
-"Wesleyan University (Middletown, Connecticut)",Northeastern,CT,"$46,500.00","$97,900.00","$42,000.00","$62,500.00","$126,000.00","$215,000.00"
-Wentworth Institute of Technology,Northeastern,MA,"$53,000.00","$96,700.00","$55,200.00","$74,000.00","$117,000.00","$153,000.00"
-Bates College,Northeastern,ME,"$47,300.00","$96,500.00",N/A,"$60,700.00","$162,000.00",N/A
-Binghamton University,Northeastern,NY,"$53,600.00","$95,900.00","$50,900.00","$71,200.00","$146,000.00","$201,000.00"
-Union College,Northeastern,NY,"$47,200.00","$95,800.00","$48,700.00","$75,200.00","$135,000.00","$230,000.00"
-New York University (NYU),Northeastern,NY,"$50,300.00","$95,600.00","$47,500.00","$65,000.00","$142,000.00","$216,000.00"
-Vassar College,Northeastern,NY,"$46,000.00","$94,600.00",N/A,"$60,600.00","$123,000.00",N/A
-Middlebury College,Northeastern,VT,"$47,700.00","$94,200.00",N/A,"$69,100.00","$129,000.00",N/A
-Mount Holyoke College,Northeastern,MA,"$42,400.00","$94,200.00",N/A,"$57,100.00","$131,000.00",N/A
-Boston University,Northeastern,MA,"$49,000.00","$93,900.00","$48,000.00","$64,900.00","$130,000.00","$193,000.00"
-Drexel University,Northeastern,PA,"$53,400.00","$93,500.00","$54,900.00","$72,500.00","$122,000.00","$161,000.00"
-"St. John's University, New York",Northeastern,NY,"$48,000.00","$93,400.00","$48,000.00","$65,400.00","$124,000.00","$181,000.00"
-Long Island University,Northeastern,NY,"$47,300.00","$93,200.00","$46,300.00","$62,100.00","$122,000.00","$169,000.00"
-Stony Brook University,Northeastern,NY,"$49,500.00","$93,000.00","$47,200.00","$67,100.00","$129,000.00","$181,000.00"
-Franklin and Marshall College,Northeastern,PA,"$49,100.00","$92,800.00",N/A,"$55,800.00","$185,000.00",N/A
-Hofstra University,Northeastern,NY,"$46,800.00","$92,700.00","$48,900.00","$67,000.00","$135,000.00","$189,000.00"
-State University of New York (SUNY) at Albany,Northeastern,NY,"$44,500.00","$92,200.00","$47,000.00","$63,100.00","$135,000.00","$209,000.00"
-Rutgers University,Northeastern,NJ,"$50,300.00","$91,800.00","$48,100.00","$65,100.00","$128,000.00","$176,000.00"
-Pratt Institute,Northeastern,NY,"$43,800.00","$89,900.00","$48,600.00","$65,400.00","$123,000.00","$155,000.00"
-Pace University,Northeastern,NY,"$53,200.00","$89,700.00","$44,200.00","$65,400.00","$129,000.00","$187,000.00"
-Seton Hall University,Northeastern,NJ,"$48,900.00","$89,200.00","$55,700.00","$70,600.00","$133,000.00","$195,000.00"
-Rider University,Northeastern,NJ,"$43,600.00","$88,900.00","$47,100.00","$63,100.00","$127,000.00","$150,000.00"
-University of Connecticut (UConn),Northeastern,CT,"$48,000.00","$88,800.00","$46,100.00","$66,400.00","$120,000.00","$162,000.00"
-Providence College,Northeastern,RI,"$48,000.00","$88,600.00","$42,800.00","$62,900.00","$138,000.00","$194,000.00"
-University of Massachusetts (UMass) - Amherst,Northeastern,MA,"$46,600.00","$88,200.00","$43,100.00","$61,300.00","$122,000.00","$168,000.00"
-Ithaca College,Northeastern,NY,"$42,700.00","$87,400.00","$50,200.00","$62,400.00","$128,000.00","$174,000.00"
-University of Massachusetts (UMass) - Lowell,Northeastern,MA,"$45,400.00","$86,600.00","$50,900.00","$65,000.00","$113,000.00","$158,000.00"
-Northeastern University,Northeastern,MA,"$50,500.00","$86,400.00","$47,100.00","$62,700.00","$117,000.00","$159,000.00"
-Syracuse University,Northeastern,NY,"$45,700.00","$85,900.00","$46,400.00","$59,400.00","$119,000.00","$178,000.00"
-Colby College,Northeastern,ME,"$46,400.00","$85,800.00",N/A,"$63,500.00","$129,000.00",N/A
-Gettysburg College,Northeastern,PA,"$44,700.00","$85,800.00",N/A,"$66,300.00","$132,000.00",N/A
-Pennsylvania State University (PSU),Northeastern,PA,"$49,900.00","$85,700.00","$46,300.00","$62,000.00","$117,000.00","$160,000.00"
-University of Rhode Island (URI),Northeastern,RI,"$43,900.00","$85,300.00","$45,400.00","$60,100.00","$112,000.00","$157,000.00"
-Siena College,Northeastern,NY,"$45,500.00","$85,200.00","$38,700.00","$58,400.00","$129,000.00","$189,000.00"
-La Salle University (Philadelphia),Northeastern,PA,"$43,400.00","$84,700.00","$45,300.00","$57,500.00","$106,000.00","$151,000.00"
-Rochester Institute of Technology (RIT),Northeastern,NY,"$48,900.00","$84,600.00","$45,000.00","$62,100.00","$112,000.00","$159,000.00"
-Duquesne University,Northeastern,PA,"$40,700.00","$84,400.00","$42,600.00","$59,500.00","$107,000.00","$131,000.00"
-State University of New York (SUNY) at Farmingdale,Northeastern,NY,"$47,300.00","$84,200.00","$50,200.00","$59,800.00","$110,000.00","$162,000.00"
-Smith College,Northeastern,MA,"$44,000.00","$83,900.00","$45,100.00","$59,800.00","$129,000.00","$184,000.00"
-Hamilton College,Northeastern,NY,"$49,200.00","$83,700.00",N/A,"$51,900.00","$123,000.00",N/A
-Wellesley College,Northeastern,MA,"$42,800.00","$83,500.00",N/A,"$58,600.00","$125,000.00",N/A
-Widener University,Northeastern,PA,"$52,900.00","$83,400.00","$42,600.00","$61,400.00","$106,000.00","$138,000.00"
-University of New Haven,Northeastern,CT,"$44,400.00","$82,900.00","$48,500.00","$66,100.00","$113,000.00","$157,000.00"
-Dowling College,Northeastern,NY,"$41,100.00","$82,800.00","$46,500.00","$60,600.00","$117,000.00","$142,000.00"
-University of Vermont (UVM),Northeastern,VT,"$44,800.00","$82,700.00","$44,700.00","$58,000.00","$122,000.00","$194,000.00"
-State University of New York (SUNY) at Buffalo,Northeastern,NY,"$46,200.00","$81,700.00","$45,900.00","$61,400.00","$110,000.00","$147,000.00"
-State University of New York (SUNY) at Geneseo,Northeastern,NY,"$42,300.00","$81,300.00","$39,300.00","$47,600.00","$117,000.00","$173,000.00"
-Fashion Institute of Technology,Northeastern,NY,"$42,800.00","$81,000.00","$38,800.00","$60,500.00","$106,000.00","$138,000.00"
-Philadelphia University,Northeastern,PA,"$45,100.00","$80,300.00","$45,800.00","$61,900.00","$108,000.00","$141,000.00"
-Ursinus College,Northeastern,PA,"$42,100.00","$80,000.00","$35,600.00","$54,300.00","$100,000.00","$160,000.00"
-Adelphi University,Northeastern,NY,"$40,600.00","$79,200.00","$44,200.00","$54,800.00","$114,000.00","$160,000.00"
-Juniata College,Northeastern,PA,"$41,800.00","$78,900.00",N/A,"$67,200.00","$110,000.00",N/A
-Fairleigh Dickinson University,Northeastern,NJ,"$45,700.00","$78,700.00","$40,200.00","$56,300.00","$112,000.00","$171,000.00"
-University of New Hampshire (UNH),Northeastern,NH,"$41,800.00","$78,300.00","$41,700.00","$56,400.00","$114,000.00","$147,000.00"
-University of Massachusetts (UMass) - Boston,Northeastern,MA,"$45,600.00","$78,200.00","$36,300.00","$53,800.00","$109,000.00","$151,000.00"
-State University of New York (SUNY) at Oswego,Northeastern,NY,"$38,000.00","$77,800.00","$40,400.00","$53,000.00","$115,000.00","$169,000.00"
-University of Massachusetts (UMass) - Dartmouth,Northeastern,MA,"$43,200.00","$77,700.00","$43,300.00","$56,200.00","$107,000.00","$132,000.00"
-State University of New York (SUNY) at Oneonta,Northeastern,NY,"$37,500.00","$76,700.00","$40,000.00","$54,300.00","$97,700.00","$155,000.00"
-Quinnipiac University,Northeastern,CT,"$43,000.00","$76,500.00","$47,900.00","$57,400.00","$117,000.00","$155,000.00"
-State University of New York (SUNY) at Plattsburgh,Northeastern,NY,"$40,800.00","$76,200.00","$38,400.00","$54,100.00","$105,000.00","$136,000.00"
-Sacred Heart University,Northeastern,CT,"$46,000.00","$75,300.00","$39,700.00","$54,800.00","$105,000.00","$150,000.00"
-Skidmore College,Northeastern,NY,"$41,600.00","$74,600.00",N/A,"$42,800.00","$147,000.00",N/A
-Moravian College,Northeastern,PA,"$42,500.00","$74,400.00",N/A,"$56,700.00","$94,900.00",N/A
-Penn State - Harrisburg,Northeastern,PA,"$45,700.00","$74,000.00","$44,000.00","$53,100.00","$104,000.00","$150,000.00"
-Suffolk University,Northeastern,MA,"$42,100.00","$74,000.00","$48,700.00","$57,800.00","$95,100.00","$145,000.00"
-Fitchburg State College,Northeastern,MA,"$42,400.00","$72,600.00","$43,300.00","$56,100.00","$99,600.00","$151,000.00"
-Roger Williams University,Northeastern,RI,"$42,000.00","$72,300.00","$39,800.00","$48,500.00","$102,000.00","$138,000.00"
-University Of Maine,Northeastern,ME,"$41,200.00","$72,100.00","$41,700.00","$55,600.00","$99,300.00","$141,000.00"
-State University of New York (SUNY) at Potsdam,Northeastern,NY,"$38,000.00","$70,300.00","$35,100.00","$51,200.00","$100,000.00","$179,000.00"
-Niagara University,Northeastern,NY,"$36,900.00","$69,700.00","$44,000.00","$57,000.00","$92,000.00","$128,000.00"
-State University of New York (SUNY) at Fredonia,Northeastern,NY,"$37,800.00","$66,200.00","$32,800.00","$44,200.00","$93,300.00","$181,000.00"
-University of Southern Maine,Northeastern,ME,"$39,400.00","$63,600.00","$40,400.00","$47,900.00","$85,700.00","$117,000.00"
-Mercy College,Northeastern,NY,"$43,700.00","$62,600.00","$35,600.00","$47,300.00","$99,000.00","$134,000.00"
+Stanford University,California,CA,70400,129000,68400,93100,184000,257000
+California Institute of Technology (CIT),California,CA,75500,123000,N/A,104000,161000,N/A
+Harvey Mudd College,California,CA,71800,122000,N/A,96000,180000,N/A
+"University of California, Berkeley",California,CA,59900,112000,59500,81000,149000,201000
+Occidental College,California,CA,51900,105000,N/A,54800,157000,N/A
+Cal Poly San Luis Obispo,California,CA,57200,101000,55000,74700,133000,178000
+University of California at Los Angeles (UCLA),California,CA,52600,101000,51300,72500,139000,193000
+"University of California, San Diego (UCSD)",California,CA,51100,101000,51700,75400,131000,177000
+Pomona College,California,CA,48600,101000,N/A,63300,161000,N/A
+University of Southern California (USC),California,CA,54800,99600,49700,73800,140000,201000
+"University of California, Davis",California,CA,52300,99600,52000,71600,135000,202000
+"University of California, Irvine (UCI)",California,CA,48300,96700,47800,66000,123000,172000
+San Jose State University (SJSU),California,CA,53500,95600,50700,70500,122000,156000
+"University of California, Santa Barbara (UCSB)",California,CA,50500,95000,51300,71200,129000,173000
+"California State University (CSU), Chico",California,CA,47400,88100,46800,62800,122000,154000
+"California State University, Fullerton (CSUF)",California,CA,45700,87000,45400,62500,119000,158000
+San Francisco State University (SFSU),California,CA,47300,86400,45100,62700,114000,150000
+San Diego State University (SDSU),California,CA,46200,85200,45500,61800,116000,158000
+"California State University, Long Beach (CSULB)",California,CA,45100,84700,47400,62500,113000,154000
+"California State University, East Bay (CSUEB)",California,CA,49200,84300,46000,62400,115000,155000
+"University of California, Santa Cruz (UCSC)",California,CA,44700,84100,46100,62000,121000,165000
+"California State University, Sacramento (CSUS)",California,CA,47800,82400,42900,59600,111000,154000
+"University of California, Riverside (UCR)",California,CA,46800,81300,37200,59900,109000,134000
+"California State University, Northridge (CSUN)",California,CA,45500,80400,44500,57800,108000,153000
+"California State University, Dominguez Hills (CSUDH)",California,CA,42700,72100,30800,47000,92200,132000
+"California State University (CSU), Stanislaus",California,CA,38000,71400,N/A,50500,94100,N/A
+Humboldt State University,California,CA,42600,71300,36000,56300,94400,117000
+Thomas Aquinas College,California,CA,41500,67500,N/A,44600,93100,N/A
+Colorado School of Mines,Western,CO,58100,106000,62200,87900,142000,201000
+University of Colorado - Boulder (UCB),Western,CO,47100,97600,51600,69000,128000,187000
+New Mexico Institute of Mining and Technology (New Mexico Tech),Western,NM,51000,93400,N/A,67400,123000,N/A
+Brigham Young University (BYU),Western,UT,49400,88600,50600,68500,119000,164000
+University of Arizona,Western,AZ,47500,86100,44800,61700,117000,160000
+University of Washington (UW),Western,WA,48800,85300,47000,59800,115000,149000
+Washington State University (WSU),Western,WA,45300,84700,43600,59000,113000,162000
+University of Colorado - Denver,Western,CO,46100,84400,46400,58600,105000,144000
+Arizona State University (ASU),Western,AZ,47400,84100,44600,60700,114000,163000
+Oregon State University (OSU),Western,OR,45100,83300,46900,64000,113000,146000
+University of Utah,Western,UT,45400,83200,43000,58400,116000,148000
+"University of Nevada, Reno (UNR)",Western,NV,46500,82900,41900,54600,113000,143000
+Seattle University,Western,WA,48300,82800,50600,62400,110000,150000
+University of Idaho,Western,ID,44900,82000,43000,56700,104000,142000
+University of New Mexico (UNM),Western,NM,41600,81600,41800,59100,105000,141000
+University of Puget Sound,Western,WA,46600,81500,48900,60100,104000,137000
+Colorado College (CC),Western,CO,38500,81400,N/A,43000,148000,N/A
+Reed College,Western,OR,40500,81100,N/A,67400,101000,N/A
+Whitman College,Western,WA,43500,80100,N/A,64800,111000,N/A
+New Mexico State University,Western,NM,44300,79500,37400,53800,102000,131000
+Colorado State University (CSU),Western,CO,44800,79000,43800,57100,112000,150000
+University of Wyoming (UW),Western,WY,44500,78700,41500,54000,105000,145000
+Utah State University,Western,UT,43800,78700,41600,55400,101000,132000
+University of Oregon,Western,OR,42200,78400,38100,56200,117000,186000
+Montana State University - Bozeman,Western,MT,46600,77500,40200,58100,111000,151000
+Gonzaga University,Western,WA,44900,76000,47000,57400,103000,138000
+University of Hawaii,Western,HI,43800,76000,40400,56300,104000,128000
+Western Washington University,Western,WA,42700,75400,41300,56700,99200,119000
+Regis University,Western,CO,48300,73800,41000,55500,94800,117000
+Idaho State University,Western,ID,44900,73400,35400,49600,101000,143000
+"University of Alaska, Anchorage",Western,AK,45900,72600,39800,56600,99300,137000
+Lewis & Clark College,Western,OR,38900,72600,38200,53400,104000,140000
+University of Montana,Western,MT,37300,71900,37000,51500,96400,138000
+"University of Nevada, Las Vegas (UNLV)",Western,NV,45200,71600,39000,52400,100000,128000
+Portland State University (PSU),Western,OR,42600,70900,40700,52300,94400,123000
+Eastern Washington University,Western,WA,38600,70900,36000,50500,93100,117000
+Fort Lewis College,Western,CO,42000,69800,N/A,55000,94000,N/A
+Boise State University (BSU),Western,ID,40800,69500,37400,48700,87500,110000
+Utah Valley State College,Western,UT,42400,67100,N/A,44100,84900,N/A
+Evergreen State College,Western,WA,39500,63900,38800,47200,91600,120000
+Southern Utah University,Western,UT,41900,56500,N/A,39700,78400,N/A
+Montana State University - Billings,Western,MT,37900,50600,N/A,31800,78500,N/A
+University of Notre Dame,Midwestern,IN,56300,116000,66400,85100,163000,235000
+University Of Chicago,Midwestern,IL,53400,113000,62200,83300,174000,255000
+Carleton College,Midwestern,MN,47500,103000,N/A,69400,141000,N/A
+Illinois Institute of Technology (IIT),Midwestern,IL,56000,97800,56100,77400,121000,165000
+Case Western Reserve University,Midwestern,OH,56200,96500,54900,76500,123000,168000
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,IL,52900,96100,48200,68900,132000,177000
+Northwestern University,Midwestern,IL,52700,95900,51900,69100,144000,205000
+University of Missouri - Rolla (UMR),Midwestern,MO,57100,95800,67600,80400,122000,166000
+South Dakota School of Mines & Technology,Midwestern,SD,55800,93400,71500,81900,122000,147000
+University of Michigan,Midwestern,MI,52700,93000,50900,69400,128000,182000
+Purdue University,Midwestern,ID,51400,90500,49900,67400,121000,168000
+Marquette University,Midwestern,WI,48500,88400,49500,67400,121000,184000
+DePauw University,Midwestern,ID,41400,88200,49500,57400,133000,185000
+University of Wisconsin (UW) - Madison,Midwestern,WI,48900,87800,47400,62400,118000,170000
+Bradley University,Midwestern,IL,47000,87300,45900,64900,113000,151000
+St. Olaf College,Midwestern,MN,45300,86200,41300,61000,120000,185000
+Michigan State University (MSU),Midwestern,MI,46300,85300,44200,61500,119000,170000
+DePaul University,Midwestern,IL,46400,84800,50300,63900,115000,160000
+Iowa State University,Midwestern,IA,45400,84600,44400,60000,109000,147000
+University of Minnesota,Midwestern,MN,46200,84200,49000,63200,112000,148000
+"Indiana University (IU), Bloomington",Midwestern,ID,46300,84000,43600,60400,119000,178000
+University of Iowa (UI),Midwestern,IA,44700,83900,43300,61100,116000,163000
+Ohio State University (OSU),Midwestern,OH,44900,83700,45500,60700,116000,162000
+Denison University,Midwestern,OH,42000,83500,N/A,62100,122000,N/A
+University of Illinois at Chicago,Midwestern,IL,47500,81700,44700,58800,110000,146000
+Oberlin College,Midwestern,OH,43400,81600,N/A,46400,128000,N/A
+University of Kansas,Midwestern,KS,42400,81600,44800,57200,115000,156000
+University of Missouri - Columbia,Midwestern,MO,41700,81000,43500,57100,111000,156000
+University of Nebraska,Midwestern,NE,45700,80900,42200,56600,113000,156000
+Northern Illinois University (NIU),Midwestern,IL,43600,80800,43900,60200,111000,161000
+Gustavus Adolphus College,Midwestern,MN,44500,80600,N/A,49300,101000,N/A
+University of North Dakota,Midwestern,ND,44000,80600,43400,56400,111000,157000
+Kansas State University (KSU),Midwestern,KS,43300,79000,37200,54100,106000,138000
+University of Wisconsin (UW) - Platteville,Midwestern,WI,45800,78500,48400,61200,100000,139000
+Wittenberg University,Midwestern,OH,39200,78200,N/A,54100,131000,N/A
+North Dakota State University (NDSU),Midwestern,ND,45100,77800,39000,55800,100000,123000
+Grinnell College,Midwestern,IA,42600,76600,N/A,65100,116000,N/A
+Wayne State University,Midwestern,MI,42800,76100,40100,56200,101000,139000
+University of Toledo,Midwestern,OH,43100,75900,40100,54100,100000,133000
+University of Wisconsin (UW) - Whitewater,Midwestern,WI,40800,75500,38200,53500,99300,150000
+Minnesota State University - Mankato,Midwestern,MN,43300,74700,39500,53800,95700,140000
+University of Wisconsin (UW) - Milwaukee,Midwestern,WI,42300,74600,40600,54000,93700,123000
+Western Michigan University (WMU),Midwestern,MI,42300,73800,40100,52500,103000,135000
+South Dakota State University (SDSU),Midwestern,SD,41100,73500,34100,49900,99400,129000
+Ohio University,Midwestern,OH,42200,73400,36600,52800,106000,150000
+Illinois State University,Midwestern,IL,42000,73400,39100,55200,105000,142000
+Cleveland State University,Midwestern,OH,43500,73100,39500,51600,97000,137000
+University of Nebraska at Omaha,Midwestern,NE,41500,72600,39500,54400,97400,126000
+Southern Illinois University Carbondale,Midwestern,IL,43000,72500,38300,51300,99300,139000
+Eastern Michigan University,Midwestern,MI,40300,72100,37900,52800,95400,135000
+Bowling Green State University,Midwestern,OH,39800,72100,38200,51800,101000,146000
+St. Cloud State University,Midwestern,MN,41800,71400,38700,49400,101000,126000
+University of Wisconsin (UW) - Parkside,Midwestern,WI,40700,71400,40900,53100,84900,119000
+University of Akron,Midwestern,OH,41100,70300,40600,53300,95200,127000
+Missouri State University (MSU),Midwestern,MO,36100,69500,33300,46900,102000,134000
+University of Wisconsin (UW) - La Crosse,Midwestern,WI,42200,69300,37500,47200,93100,133000
+University of Wisconsin (UW) - Stout,Midwestern,WI,43600,68300,40900,50600,91600,136000
+Robert Morris College (RMC),Midwestern,IL,38500,68200,37300,47100,95000,128000
+University of Missouri - St. Louis (UMSL),Midwestern,MO,41400,67100,36800,49600,97600,144000
+University of Wisconsin (UW) - Oshkosh,Midwestern,WI,39300,66400,37700,49700,90100,138000
+University of Missouri - Kansas City (UMKC),Midwestern,MO,38900,65800,36300,48100,95800,124000
+University of Wisconsin (UW) - Eau Claire,Midwestern,WI,41400,64800,35000,47300,93100,125000
+Ball State University (BSU),Midwestern,IN,39100,64500,35500,48200,89300,128000
+Park University,Midwestern,MO,44300,64300,37200,45600,86400,113000
+University of Wisconsin (UW) - Stevens Point,Midwestern,WI,39800,64000,38400,45100,95400,128000
+Kent State University,Midwestern,OH,38700,62600,36100,45800,87000,124000
+University of Wisconsin (UW) - Green Bay,Midwestern,WI,35800,60600,35500,46800,81800,102000
+Indiana Wesleyan University (IWU),Midwestern,IN,39800,58500,39600,47800,78600,93400
+Pittsburg State University,Midwestern,KS,40400,58200,25600,46000,84600,117000
+Davenport University,Midwestern,MI,39700,46600,31600,38100,65600,85700
+Black Hills State University,Midwestern,SD,35300,43900,N/A,32200,60900,N/A
+Rice University,Southern,TX,64000,110000,55900,82100,141000,216000
+Georgetown University,Southern,DC,55000,110000,60300,85800,174000,248000
+Duke University,Southern,NC,58900,106000,56000,77400,149000,218000
+Georgia Institute of Technology,Southern,GA,58300,106000,67200,85200,137000,183000
+Washington and Lee University,Southern,VA,53600,104000,N/A,82800,146000,N/A
+Vanderbilt University,Southern,TN,51200,104000,49900,68100,147000,222000
+Davidson College,Southern,NC,46100,104000,N/A,70500,146000,N/A
+University of Virginia (UVA),Southern,VA,52700,103000,52200,71800,146000,215000
+George Washington University (GWU),Southern,DC,47000,97900,48400,69600,132000,194000
+Texas A&M University,Southern,TX,49700,96100,51100,71300,131000,171000
+Tulane University,Southern,LA,49100,95800,46500,64400,134000,185000
+Virginia Polytechnic Institute and State University (Virginia Tech),Southern,VA,53500,95400,50600,71400,124000,163000
+"University of Maryland, College Park",Southern,MD,52000,95000,50400,68300,126000,166000
+University of Richmond,Southern,VA,48600,94600,44500,59400,151000,211000
+University of Texas (UT) - Austin,Southern,TX,49700,93900,50100,67400,129000,188000
+Emory University,Southern,GA,52000,91600,52500,63300,128000,192000
+"American University, Washington D.C.",Southern,DC,45300,90800,45200,62400,134000,169000
+University of Tulsa,Southern,OK,42400,88700,42300,60300,120000,197000
+Baylor University,Southern,TX,48300,88600,46300,60700,130000,200000
+University of Florida (UF),Southern,FL,47100,87900,45400,62900,120000,172000
+Louisiana State University (LSU),Southern,LA,46900,87800,43700,61300,120000,165000
+George Mason University,Southern,VA,47800,86900,51300,67200,114000,150000
+Clemson University,Southern,SC,48400,86000,50500,61800,111000,150000
+University of Georgia (UGA),Southern,GA,44100,86000,43100,57800,118000,164000
+Auburn University,Southern,AL,45400,84700,45400,62700,109000,145000
+University of Delaware,Southern,DE,45900,84500,44500,64000,119000,165000
+Randolph-Macon College,Southern,VA,42600,83600,N/A,54100,123000,N/A
+North Carolina State University (NCSU),Southern,NC,47200,83300,49200,64800,112000,153000
+University of Oklahoma,Southern,OK,44700,82900,41200,60300,114000,167000
+University of Arkansas,Southern,AR,44100,82800,43200,60700,113000,160000
+University of Alabama at Huntsville (UAH),Southern,AL,43100,82700,46100,67800,106000,132000
+Howard University,Southern,DC,46900,81800,43300,60000,109000,138000
+University of North Carolina at Chapel Hill (UNCH),Southern,NC,42900,81500,43400,57500,117000,155000
+"University of Alabama, Tuscaloosa",Southern,AL,41300,81400,40100,56500,117000,161000
+University of Texas at Arlington (UTA),Southern,TX,45400,80800,46400,61200,106000,138000
+Oklahoma State University,Southern,OK,42800,80700,40100,56500,114000,151000
+Tennessee Technological University,Southern,TN,46200,80000,42100,62600,99500,121000
+University of Houston (UH),Southern,TX,46000,79900,42000,56200,106000,141000
+University of Mississippi,Southern,MS,41400,79700,40400,53500,108000,186000
+Lamar University,Southern,TX,46500,79400,38700,51600,114000,158000
+Mississippi State University (MSU),Southern,MS,44500,79300,43300,58800,108000,151000
+University of Kentucky (UK),Southern,KY,42800,78300,43000,57300,107000,149000
+Texas Christian University (TCU),Southern,TX,45100,78100,42600,56600,122000,183000
+West Virginia University (WVU),Southern,WV,43100,78100,39700,55700,106000,141000
+University of Maryland Baltimore County (UMBC),Southern,MD,47000,77800,46900,59100,105000,130000
+University of Louisiana (UL) at Lafayette,Southern,LA,41100,76300,42000,54500,107000,163000
+Florida International University (FIU),Southern,FL,43200,75500,40500,55800,98200,136000
+University of Tennessee,Southern,TN,43800,74600,41900,53200,106000,153000
+University of Arkansas - Monticello (UAM),Southern,AR,39200,74500,N/A,46100,110000,N/A
+University of North Carolina at Charlotte (UNCC),Southern,NC,43100,74000,38200,53200,99500,133000
+Georgia State University,Southern,LA,41800,74000,43000,55300,99900,145000
+LeTourneau University,Southern,TX,49500,73800,41200,52700,95200,126000
+Florida State University (FSU),Southern,FL,42100,73000,39600,52800,107000,156000
+University of Texas at El Paso (UTEP),Southern,TX,43400,72100,37700,50400,99500,133000
+University of Central Florida (UCF),Southern,FL,42600,71700,39500,51500,98400,125000
+University of South Carolina,Southern,SC,40000,71700,36300,49900,98400,131000
+Florida Atlantic University (FAU),Southern,FL,42600,71100,40700,53000,99500,137000
+University of South Florida (USF),Southern,FL,41100,71100,39600,51500,98100,131000
+University of Texas at San Antonio (UTSA),Southern,TX,42500,70700,39100,49800,92700,121000
+University of Alabama at Birmingham (UAB),Southern,AL,39200,70100,43000,53400,91400,125000
+University of Memphis (U of M),Southern,TN,41400,69700,36100,49100,93500,127000
+Appalachian State University,Southern,NC,40400,69100,37200,50400,90800,115000
+Virginia Commonwealth University (VCU),Southern,VA,42000,68400,37400,51900,100000,123000
+East Carolina University (ECU),Southern,NC,40200,67500,38400,52000,98700,151000
+Western Carolina University,Southern,NC,36900,66600,39000,49500,94400,133000
+Jacksonville University,Southern,FL,46700,66200,36700,47200,88500,121000
+University of North Carolina at Wilmington (UNCW),Southern,NC,37500,64400,32100,46600,97100,129000
+Oklahoma City University,Southern,OK,40000,64300,N/A,45400,80600,N/A
+Arkansas State University (ASU),Southern,AR,38700,63300,33600,45300,83900,118000
+Tarleton State University (TSU),Southern,TX,40800,62400,32100,47400,80400,126000
+Morehead State University,Southern,KY,34800,60600,34300,46500,72000,91300
+Mississippi College,Southern,MS,35400,60400,N/A,43900,80400,N/A
+Dallas Baptist University,Southern,TX,39400,60200,38500,50300,81800,98100
+Austin Peay State University,Southern,TN,37700,59200,32200,40500,73900,96200
+Saint Leo University,Southern,FL,40900,57800,34400,41800,80600,113000
+Tusculum College,Southern,TN,36900,55500,36200,43000,87300,124000
+Virginia Wesleyan College (VWC),Southern,VA,34600,54900,N/A,37100,88900,N/A
+"Lee University (Cleveland, TN)",Southern,TN,34500,53900,N/A,44500,76800,N/A
+Florida Metropolitan University (FMU),Southern,FL,36600,51000,32800,36800,70400,102000
+Dartmouth College,Northeastern,NH,58000,134000,63100,90200,234000,321000
+Princeton University,Northeastern,NJ,66500,131000,68900,100000,190000,261000
+Massachusetts Institute of Technology (MIT),Northeastern,MA,72200,126000,76800,99200,168000,220000
+Yale University,Northeastern,CT,59100,126000,58000,80600,198000,326000
+Harvard University,Northeastern,MA,63400,124000,54800,86200,179000,288000
+University of Pennsylvania,Northeastern,PA,60900,120000,55900,79200,192000,282000
+"Polytechnic University of New York, Brooklyn",Northeastern,NY,62400,114000,66800,94300,143000,190000
+Cooper Union,Northeastern,NY,62200,114000,N/A,80200,142000,N/A
+Worcester Polytechnic Institute (WPI),Northeastern,MA,61000,114000,80000,91200,137000,180000
+Carnegie Mellon University (CMU),Northeastern,PA,61800,111000,63300,80100,150000,209000
+Rensselaer Polytechnic Institute (RPI),Northeastern,NY,61100,110000,71600,85500,140000,182000
+Cornell University,Northeastern,NY,60300,110000,56800,79800,160000,210000
+Bucknell University,Northeastern,PA,54100,110000,62800,80600,156000,251000
+Brown University,Northeastern,RI,56200,109000,55400,74400,159000,228000
+Colgate University,Northeastern,NY,52800,108000,60000,76700,167000,265000
+Columbia University,Northeastern,NY,59400,107000,50300,71900,161000,241000
+Amherst College,Northeastern,MA,54500,107000,N/A,84900,162000,N/A
+Lafayette College,Northeastern,PA,53900,107000,70600,79300,144000,204000
+Bowdoin College,Northeastern,ME,48100,107000,N/A,74600,146000,N/A
+College of the Holy Cross,Northeastern,MA,50200,106000,N/A,65600,143000,N/A
+Stevens Institute of Technology,Northeastern,NJ,60600,105000,68700,81900,138000,185000
+Lehigh University,Northeastern,PA,59200,105000,69500,85000,160000,229000
+Swarthmore College,Northeastern,PA,49700,104000,N/A,67200,167000,N/A
+Boston College,Northeastern,MA,52700,103000,48900,70000,143000,195000
+Williams College,Northeastern,MA,51700,102000,N/A,76400,143000,N/A
+Villanova University,Northeastern,PA,55800,101000,56800,76200,156000,226000
+Fordham University,Northeastern,NY,47800,99900,48600,65900,142000,198000
+"Wesleyan University (Middletown, Connecticut)",Northeastern,CT,46500,97900,42000,62500,126000,215000
+Wentworth Institute of Technology,Northeastern,MA,53000,96700,55200,74000,117000,153000
+Bates College,Northeastern,ME,47300,96500,N/A,60700,162000,N/A
+Binghamton University,Northeastern,NY,53600,95900,50900,71200,146000,201000
+Union College,Northeastern,NY,47200,95800,48700,75200,135000,230000
+New York University (NYU),Northeastern,NY,50300,95600,47500,65000,142000,216000
+Vassar College,Northeastern,NY,46000,94600,N/A,60600,123000,N/A
+Middlebury College,Northeastern,VT,47700,94200,N/A,69100,129000,N/A
+Mount Holyoke College,Northeastern,MA,42400,94200,N/A,57100,131000,N/A
+Boston University,Northeastern,MA,49000,93900,48000,64900,130000,193000
+Drexel University,Northeastern,PA,53400,93500,54900,72500,122000,161000
+"St. John's University, New York",Northeastern,NY,48000,93400,48000,65400,124000,181000
+Long Island University,Northeastern,NY,47300,93200,46300,62100,122000,169000
+Stony Brook University,Northeastern,NY,49500,93000,47200,67100,129000,181000
+Franklin and Marshall College,Northeastern,PA,49100,92800,N/A,55800,185000,N/A
+Hofstra University,Northeastern,NY,46800,92700,48900,67000,135000,189000
+State University of New York (SUNY) at Albany,Northeastern,NY,44500,92200,47000,63100,135000,209000
+Rutgers University,Northeastern,NJ,50300,91800,48100,65100,128000,176000
+Pratt Institute,Northeastern,NY,43800,89900,48600,65400,123000,155000
+Pace University,Northeastern,NY,53200,89700,44200,65400,129000,187000
+Seton Hall University,Northeastern,NJ,48900,89200,55700,70600,133000,195000
+Rider University,Northeastern,NJ,43600,88900,47100,63100,127000,150000
+University of Connecticut (UConn),Northeastern,CT,48000,88800,46100,66400,120000,162000
+Providence College,Northeastern,RI,48000,88600,42800,62900,138000,194000
+University of Massachusetts (UMass) - Amherst,Northeastern,MA,46600,88200,43100,61300,122000,168000
+Ithaca College,Northeastern,NY,42700,87400,50200,62400,128000,174000
+University of Massachusetts (UMass) - Lowell,Northeastern,MA,45400,86600,50900,65000,113000,158000
+Northeastern University,Northeastern,MA,50500,86400,47100,62700,117000,159000
+Syracuse University,Northeastern,NY,45700,85900,46400,59400,119000,178000
+Colby College,Northeastern,ME,46400,85800,N/A,63500,129000,N/A
+Gettysburg College,Northeastern,PA,44700,85800,N/A,66300,132000,N/A
+Pennsylvania State University (PSU),Northeastern,PA,49900,85700,46300,62000,117000,160000
+University of Rhode Island (URI),Northeastern,RI,43900,85300,45400,60100,112000,157000
+Siena College,Northeastern,NY,45500,85200,38700,58400,129000,189000
+La Salle University (Philadelphia),Northeastern,PA,43400,84700,45300,57500,106000,151000
+Rochester Institute of Technology (RIT),Northeastern,NY,48900,84600,45000,62100,112000,159000
+Duquesne University,Northeastern,PA,40700,84400,42600,59500,107000,131000
+State University of New York (SUNY) at Farmingdale,Northeastern,NY,47300,84200,50200,59800,110000,162000
+Smith College,Northeastern,MA,44000,83900,45100,59800,129000,184000
+Hamilton College,Northeastern,NY,49200,83700,N/A,51900,123000,N/A
+Wellesley College,Northeastern,MA,42800,83500,N/A,58600,125000,N/A
+Widener University,Northeastern,PA,52900,83400,42600,61400,106000,138000
+University of New Haven,Northeastern,CT,44400,82900,48500,66100,113000,157000
+Dowling College,Northeastern,NY,41100,82800,46500,60600,117000,142000
+University of Vermont (UVM),Northeastern,VT,44800,82700,44700,58000,122000,194000
+State University of New York (SUNY) at Buffalo,Northeastern,NY,46200,81700,45900,61400,110000,147000
+State University of New York (SUNY) at Geneseo,Northeastern,NY,42300,81300,39300,47600,117000,173000
+Fashion Institute of Technology,Northeastern,NY,42800,81000,38800,60500,106000,138000
+Philadelphia University,Northeastern,PA,45100,80300,45800,61900,108000,141000
+Ursinus College,Northeastern,PA,42100,80000,35600,54300,100000,160000
+Adelphi University,Northeastern,NY,40600,79200,44200,54800,114000,160000
+Juniata College,Northeastern,PA,41800,78900,N/A,67200,110000,N/A
+Fairleigh Dickinson University,Northeastern,NJ,45700,78700,40200,56300,112000,171000
+University of New Hampshire (UNH),Northeastern,NH,41800,78300,41700,56400,114000,147000
+University of Massachusetts (UMass) - Boston,Northeastern,MA,45600,78200,36300,53800,109000,151000
+State University of New York (SUNY) at Oswego,Northeastern,NY,38000,77800,40400,53000,115000,169000
+University of Massachusetts (UMass) - Dartmouth,Northeastern,MA,43200,77700,43300,56200,107000,132000
+State University of New York (SUNY) at Oneonta,Northeastern,NY,37500,76700,40000,54300,97700,155000
+Quinnipiac University,Northeastern,CT,43000,76500,47900,57400,117000,155000
+State University of New York (SUNY) at Plattsburgh,Northeastern,NY,40800,76200,38400,54100,105000,136000
+Sacred Heart University,Northeastern,CT,46000,75300,39700,54800,105000,150000
+Skidmore College,Northeastern,NY,41600,74600,N/A,42800,147000,N/A
+Moravian College,Northeastern,PA,42500,74400,N/A,56700,94900,N/A
+Penn State - Harrisburg,Northeastern,PA,45700,74000,44000,53100,104000,150000
+Suffolk University,Northeastern,MA,42100,74000,48700,57800,95100,145000
+Fitchburg State College,Northeastern,MA,42400,72600,43300,56100,99600,151000
+Roger Williams University,Northeastern,RI,42000,72300,39800,48500,102000,138000
+University Of Maine,Northeastern,ME,41200,72100,41700,55600,99300,141000
+State University of New York (SUNY) at Potsdam,Northeastern,NY,38000,70300,35100,51200,100000,179000
+Niagara University,Northeastern,NY,36900,69700,44000,57000,92000,128000
+State University of New York (SUNY) at Fredonia,Northeastern,NY,37800,66200,32800,44200,93300,181000
+University of Southern Maine,Northeastern,ME,39400,63600,40400,47900,85700,117000
+Mercy College,Northeastern,NY,43700,62600,35600,47300,99000,134000
