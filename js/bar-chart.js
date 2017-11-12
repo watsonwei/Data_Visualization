@@ -208,8 +208,14 @@ d3.csv("../data/degrees-that-pay-back.csv",function(d,i,columns){
   d3.selectAll("input")
     .on("change", changed);
   
+  var timeout = d3.timeout(function() {
+    d3.select("input[value=\"grouped\"]")
+        .property("checked", true)
+        .dispatch("change");
+  }, 2000);
+  
   function changed() {
-    //timeout.stop();
+    timeout.stop();
     if (this.value === "grouped") transitionGrouped();
     else transitionStacked();
   }
