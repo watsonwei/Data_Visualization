@@ -11,7 +11,9 @@
       <script src="https://d3js.org/d3.v4.min.js"></script>
       <script src="https://d3js.org/topojson.v2.min.js"></script>
       <script src="https://use.fontawesome.com/13bd6b8e57.js"></script>
+      <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
       <link href="css/stylesheet.css" rel="stylesheet">
+      <link href="css/tooltip.css" rel="stylesheet">
     </head> 
   
     <body> 
@@ -61,30 +63,37 @@
 
       
       <section id="chart1" class="content-section text-center">
-        <div class="container">
-          <div class="row">
-            <div class="mx-auto" id="chart1">
-              <svg width="960" height="700" id="svg_1"></svg>
-            </div>
+        <div class="mx-auto" id="chart1">
+          <div>
+            <h2>Major vs. Salary  Bar Chart</h2>
+              <form>
+                <label><input type="radio" name="mode" value="grouped"> Grouped</label><br>
+                <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
+              </form>
+              <span>Sort By:</span>
+              <button type="button" class="btn btn-primary" id="start_btn" disabled>Starting Salary</button>
+              <button type="button" class="btn btn-primary" id="mid_btn">Mid-career Salary</button>
+              <button type="button" class="btn btn-primary" id="alpha_btn">Alphabetical</button>
+
           </div>
+          <div id="tooltip" class="hidden">
+            <p><strong>Salary</strong></p>
+            <p><span id="value">0</span></p>
+          </div>
+          
+          <svg width="960" height="500" id="svg_1"></svg>
         </div>
       </section>
 
       <section id="chart2" class="download-section content-section text-center" style="background-color: grey">
-        <div class="container">
-          <div class="col-lg-8 mx-auto">
-            <svg width="960" height="500" id="svg_2"></svg>
-          </div>
+        <div class="mx-auto">
+          <svg width="960" height="500" id="svg_2"></svg>
         </div>
       </section>
 
       <section id="chart3" class="content-section text-center">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 mx-auto">
-              <svg width="960" height="500" id="svg_3"></svg>
-            </div>
-          </div>
+        <div class="col-lg-8 mx-auto">
+          <svg width="960" height="500" id="svg_3"></svg>
         </div>
       </section>
 
