@@ -9,11 +9,14 @@
       <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
       <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+      <script src="https://bl.ocks.org/syntagmatic/raw/3341641/render-queue.js"></script>
       <script src="https://d3js.org/topojson.v2.min.js"></script>
       <script src="https://use.fontawesome.com/13bd6b8e57.js"></script>
       <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
       <link href="css/stylesheet.css" rel="stylesheet">
       <link href="css/tooltip.css" rel="stylesheet">
+      <link href="css/paralell.css" rel="stylesheet">
     </head> 
   
     <body> 
@@ -85,9 +88,10 @@
         </div>
       </section>
 
-      <section id="chart2" class="download-section content-section text-center" style="background-color: grey">
+      <section id="chart2" style="background-color: grey">
         <div class="mx-auto">
-          <svg width="960" height="500" id="svg_2"></svg>
+          <div id="svg_2"></div>
+          <div id="table_div"></div>
         </div>
       </section>
 
@@ -108,5 +112,6 @@
         
       <script src="js/homepage.js"></script>
       <script src="js/bar-chart.js"></script>
+      <script src="js/parallel_coordinate.js"></script>    
     </body> 
 </html>
