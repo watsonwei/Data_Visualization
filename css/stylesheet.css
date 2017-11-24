@@ -157,6 +157,11 @@ a {
   #map {
     height: 350px; } }
 
+ul li{
+  margin-left:50px;
+  text-transform: uppercase;
+}
+
 /*
 .btn {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
