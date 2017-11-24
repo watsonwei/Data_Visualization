@@ -1,8 +1,8 @@
-var margin = {top: 66, right: 110, bottom: 20, left: 188},
-    width = 1200 - margin.left - margin.right,
-    height = 550 - margin.top - margin.bottom,
-    innerHeight = height - 2;
-console.log(document.body.clientWidth);
+var margin_2 = {top: 66, right: 110, bottom: 20, left: 188},
+    width_2= 1200 - margin_2.left - margin_2.right,
+    height_2= 550 - margin_2.top - margin_2.bottom,
+    innerHeight= height_2- 2;
+// console.log(document.body.clientWidth);
 var devicePixelRatio = window.devicePixelRatio || 1;
 
 //var color = d3.scaleOrdinal()
@@ -72,27 +72,27 @@ var yAxis = d3.axisLeft();
 
 var container = d3.select("#svg_2").append("div")
     .attr("class", "parcoords")
-    .style("width", width + margin.left + margin.right + "px")
-    .style("height", height + margin.top + margin.bottom + "px");
+    .style("width", width_2+ margin_2.left + margin_2.right + "px")
+    .style("height", height_2+ margin_2.top + margin_2.bottom + "px");
 
 var svg_p = container.append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("width", width_2+ margin_2.left + margin_2.right)
+    .attr("height", height_2+ margin_2.top + margin_2.bottom)
   .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + margin_2.left + "," + margin_2.top + ")");
 
 var canvas = container.append("canvas")
-    .attr("width", width * devicePixelRatio)
-    .attr("height", height * devicePixelRatio)
-    .style("width", width + "px")
-    .style("height", height + "px")
-    .style("margin-top", margin.top + "px")
-    .style("margin-left", margin.left + "px");
+    .attr("width", width_2* devicePixelRatio)
+    .attr("height", height_2* devicePixelRatio)
+    .style("width", width_2+ "px")
+    .style("height", height_2+ "px")
+    .style("margin-top", margin_2.top + "px")
+    .style("margin-left", margin_2.left + "px");
 
 var ctx = canvas.node().getContext("2d");
 ctx.globalCompositeOperation = 'darken';
 ctx.globalAlpha = 0.15;
-ctx.lineWidth = 1.5;
+ctx.linewidth = 1.5;
 ctx.scale(devicePixelRatio, devicePixelRatio);
 var header=d3.select("body").append("h3");
 var count = 0;
@@ -113,7 +113,7 @@ d3.csv("../data/degrees-that-pay-back.csv",
     return d;
         }, 
        function(error,data) {
-    console.log(data);
+    // console.log(data);
   if (error) throw error;
   data.forEach(function(d) {
     dimensions.forEach(function(p) {
@@ -175,10 +175,10 @@ let table = d3.select("#table_div").append("table").attr("id","data_table");
   d3.selectAll(".axis.Undergraduate_Major .tick text")
     .style("fill", color_p);
 //  header.text(d3.tsvFormat(data.slice(0)));
-    console.log(data[0]);
+    // console.log(data[0]);
     //table function
     var makeATable = function (data,columns) {
-    console.log(columns);
+    // console.log(columns);
 	var thead = table.append('thead');
 	var tbody = table.append('tbody');
 
