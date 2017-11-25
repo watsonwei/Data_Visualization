@@ -101,7 +101,7 @@ th{
 }
 table{
     background-color: #aaa;
-    width: 100%;
+    
 }
 
 thead > tr, tbody{
@@ -111,7 +111,11 @@ td {
     text-align: center;
 }
 
-#svg_2{
-    margin-left: 80px;
+#svg_2 {
+    margin-left: 50px;
     padding: 20px;
 }
+#chart2 {
+    padding: 25px;
+}
+

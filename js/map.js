@@ -12,13 +12,13 @@
         pad = 20,
         h2 = 200;
     var tooltip = d3.select("body").append("div").attr("class", "toolTip");
-    var svg = d3.select('#div-geo').append('svg')
+    var svg_3 = d3.select('#div-geo').append('svg')
         .attr('width', w)
         .attr('height', h)
     var projection = d3.geoAlbersUsa()
         .scale([1200])
         .translate([w / 2, h / 2])
-    var svg2 = d3.select('#div-barchart').append('svg')
+    var svg2_3 = d3.select('#div-barchart').append('svg')
         .attr('id', 'barchart')
         .attr('width', 1500 + 20)
         .attr('height', h2 + 20)
@@ -78,10 +78,10 @@
 
     }
     d3.json("/data/usa2.json", function(error, world) {
-        svg.append('path')
+        svg_3.append('path')
             .attr('class', 'graticule')
             .attr('d', path);
-        svg.selectAll('path')
+        svg_3.selectAll('path')
             .data(world.features)
             .enter()
             .append("path")
@@ -230,7 +230,7 @@
                 .domain([0, 60])
                 .range([h2, 0]);
 
-            var main = svg2.append('g')
+            var main = svg2_3.append('g')
                 .attr('transform', 'translate(' + 20 + ',' + 0 + ')')
 
             main.append("g")

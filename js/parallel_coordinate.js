@@ -67,7 +67,7 @@ key: "Mid-Career 90th Percentile Salary",
 
 var xscale = d3.scalePoint()
     .domain(d3.range(dimensions.length))
-    .range([0, width]);
+    .range([0, width_2]);
 var yAxis = d3.axisLeft();
 
 var container = d3.select("#svg_2").append("div")
@@ -140,8 +140,8 @@ d3.csv("../data/degrees-that-pay-back.csv",
   });
 
   var render = renderQueue(draw).rate(50);
-let table = d3.select("#table_div").append("table").attr("id","data_table");
-  ctx.clearRect(0,0,width,height);
+  var table = d3.select("#table_div").append("table").attr("id","data_table");
+  ctx.clearRect(0,0,width_2,height_2);
   ctx.globalAlpha = d3.min([0.85/Math.pow(data.length,0.3),1]);
   render(data);
 
@@ -162,7 +162,7 @@ let table = d3.select("#table_div").append("table").attr("id","data_table");
       .attr("class", "brush")
       .each(function(d) {
         d3.select(this).call(d.brush = d3.brushY()
-          .extent([[-10,0], [10,height]])
+          .extent([[-10,0], [10,height_2]])
           .on("start", brushstart)
           .on("brush", brush)
           .on("end", brush)
@@ -197,7 +197,7 @@ let table = d3.select("#table_div").append("table").attr("id","data_table");
 	var cells = rows.selectAll('td')
 	    .data(function(row) {
 	    	return columns.map(function (column) {
-	    		return { column: column, value: row[column] }
+	    		return { column: column, value: row[column].toLocaleString() }
 	      })
       })
       .enter()
@@ -286,7 +286,7 @@ var columns = ["Undergraduate Major","Mid-Career 10th Percentile Salary","Mid-Ca
         return true;
       }
     });
-    ctx.clearRect(0,0,width,height);
+    ctx.clearRect(0,0,width_2,height_2);
     ctx.globalAlpha = d3.min([0.85/Math.pow(selected.length,0.3),1]);
     render(selected);
   document.getElementById("data_table").innerHTML = "";
