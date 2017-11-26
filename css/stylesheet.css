@@ -233,4 +233,9 @@ h2 {
 	overflow: scroll; 
 }
 
+.svg-content { 
+	display: inline-block;
+	top: 0;
+	left: 0;
+}
 
