@@ -20,7 +20,7 @@ var projection = d3.geoAlbersUsa()
 var svg2_3 = d3.select('#div-barchart').append('svg')
     .attr('id', 'barchart')
     .attr('width', w + 20)
-    .attr('height', h2 + 20)
+    .attr('height', h2 + 40)
 svg2_3.append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", 0)
@@ -28,6 +28,14 @@ svg2_3.append("text")
       .attr("dy", "1em")
       .style("text-anchor", "middle")
       .text("Salary ($)");
+
+svg2_3.append("text")
+      .attr('id', 'rank')
+      .attr("y", h2 + 20)
+      .attr("x",(w / 2 + 30))
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Ranks");
 var path = d3.geoPath()
     .projection(projection);
 
@@ -44,6 +52,8 @@ function bars(data) {
     d3.select('#axis').call(d3.axisBottom(x));
 
     d3.select('#barchart').attr('width', Math.max(w + 20, 50 * data.length))
+    d3.select('#rank')
+    .transition().duration(1000).attr('x', 50 * data.length / 2 + 50)
 
     var vis = d3.select('#barchart')
     var bars = vis.selectAll('rect.bar')
@@ -157,6 +167,8 @@ d3.json("/data/usa2.json", function(error, world) {
         }
 
         function byState() {
+            d3.select('#map_legend').style("display", "inline");
+            d3.select('#map_legend_2').style("display", "inline");
             for (i = 0; i < avg_data.length; i++) {
                 res = parseInt(((avg_data[i]['value']['avg_st']) - 40000) / 20000 * 255);
                 temp = avg_data[i]['value']['avg_st'];
@@ -206,6 +218,8 @@ d3.json("/data/usa2.json", function(error, world) {
         }
 
         function byRegion() {
+            d3.select('#map_legend').style("display", "none");
+            d3.select('#map_legend_2').style("display", "none");
             for (i = 0; i < region_avg_data.length; i++) {
                 res = parseInt((region_avg_data[i]['value']['avg_st'] - 42000) / 18000 * 255);
                 temp = region_avg_data[i]['value']['avg_st'];
@@ -300,6 +314,43 @@ d3.json("/data/usa2.json", function(error, world) {
             .style("text-anchor", "middle")
             .attr('transform', 'translate(820, 470) rotate(' + 90 + ')')
             .text("Country");
+        var g = svg_3.append('g').attr('id','map_legend');
+          var myScale = d3.scaleLinear()
+                          .domain([0, 10])
+                          .range([40000, 70000])
+          g.selectAll('rect')
+            .data([0,1,2,3,4,5,6,7,8,9,10])
+            .enter()
+            .append('rect')
+            .attr('x', function(d){return 20 *(d + 33);})
+            .attr('y', h - 40)
+            .attr('width', function(d){return 20})
+            .attr('height', 20)
+            .style('fill', function(d){
+              var res = parseInt((d) * 3000 / 20000 * 255);
+              console.log(res);
+
+              return 'rgb(' + (res - 100) + ',' + res  + ', ' + res + ')'
+            })
+          var g = svg_3.append('g').attr('id','map_legend_2');
+          g.selectAll('text')
+            .data([0,3,7,10])
+            .enter()
+            .append('text')
+            .style('text-anchor', 'middle')
+            .attr('x', function(d){return 20 *(d + 33);})
+            .attr('y', h - 50)
+            .text(function(d){return parseInt(myScale(d)).toLocaleString()});
+
+          g.selectAll('rect')
+            .data([0,3,7,10])
+            .enter()
+            .append('rect')
+            .attr('x', function(d){return 20 *(d + 33);})
+            .attr('y', h - 44)
+            .attr('width', function(d){return 3})
+            .attr('height', 24)
+            .text(function(d){return parseInt(myScale(d))})
 
         //console.log(avg_data)
     });
