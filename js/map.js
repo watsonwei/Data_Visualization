@@ -6,7 +6,7 @@ function compare(property) {
     }
 }
 
-var w = 960,
+var w = 1250,
     h = 600,
     pad = 20,
     h2 = 150;
@@ -33,7 +33,7 @@ var path = d3.geoPath()
 
 function bars(data) {
     var l = data.length
-    console.log(data);
+    //console.log(data);
     max = data[0];
     var x = d3.scaleBand()
         .range([25, 50 * l + 25])
@@ -60,7 +60,7 @@ function bars(data) {
         .transition()
         .duration(1000)
         .style('fill', function(d) {
-            console.log(d3.select('#' + d['State']).style('fill'));
+            //console.log(d3.select('#' + d['State']).style('fill'));
             return d3.select('#' + d['State']).style('fill');
         })
     .attr('x', function(d, i) { return 50 + 50 * i; })
@@ -117,7 +117,7 @@ d3.json("/data/usa2.json", function(error, world) {
         var region_data = d3.nest()
             .key(function(d) { return d['Region']; })
             .entries(data);
-        console.log(state_data);
+        //console.log(state_data);
 
         var avg_data = d3.nest()
             .key(function(d) { return d['State']; })
@@ -139,7 +139,7 @@ d3.json("/data/usa2.json", function(error, world) {
                 };
             })
             .entries(data);
-        console.log(region_avg_data);
+        //console.log(region_avg_data);
 
 
         for (i = 0; i < state_data.length; i++) {
@@ -173,7 +173,7 @@ d3.json("/data/usa2.json", function(error, world) {
                             d3.select('#' + avg_data[i]['key'])
                                 .style('fill', function(d) { return d['color'] })
                         }
-                        console.log('#' + d3.select(this).attr('id'))
+                        // console.log('#' + d3.select(this).attr('id'))
                         d3.select('#' + d3.select(this).attr('id'))
                             .style('fill', function(d, i) {
                                 return color(i);
@@ -200,7 +200,7 @@ d3.json("/data/usa2.json", function(error, world) {
                         d3.select('#' + d3.select(this).attr('id'))
                             .style('stroke-width', '1px')
                     })
-                    .style('fill', 'rgb(' + (res - 100) + ',' + res + ', ' + res + ')')
+                    .style('fill', 'rgb(' + (res-100) + ',' + res + ', ' + res + ')')
 
             }
         }
@@ -218,11 +218,11 @@ d3.json("/data/usa2.json", function(error, world) {
                         d['color'] = 'rgb(' + (res - 100) + ',' + res + ', ' + res + ')'
                         return 'black'
                     })
-                    .style('fill', 'rgb(' + (res - 100) + ',' + res + ', ' + res + ')')
+                    .style('fill', 'grey')
                     .on("click", function(d) {
                         for (i = 0; i < region_avg_data.length; i++) {
                             d3.selectAll('.' + region_avg_data[i]['key'])
-                                .style('fill', function(d) { return d['color'] })
+                                .style('fill', 'grey')
                                 
                                 .transition()
                         }
@@ -244,7 +244,7 @@ d3.json("/data/usa2.json", function(error, world) {
                     .on("mousemove", function(d) {
                         d3.selectAll('.' + d3.select(this)
                                 .attr('class')).style('opacity', 0.9)
-                            .attr('stroke-width', '5px')
+                            .attr('stroke-width', '3px')
                         tooltip
                             .style("left", d3.event.pageX - 100 + "px")
                             .style("top", d3.event.pageY - 100 + "px")
@@ -273,7 +273,7 @@ d3.json("/data/usa2.json", function(error, world) {
             .on('click', function(d) {
                 byRegion();
             })
-        console.log(data);
+        // console.log(data);
         var x = d3.scaleBand()
             .range([0, w - 40])
             .round(true)
@@ -301,6 +301,6 @@ d3.json("/data/usa2.json", function(error, world) {
             .attr('transform', 'translate(820, 470) rotate(' + 90 + ')')
             .text("Country");
 
-        console.log(avg_data)
+        //console.log(avg_data)
     });
 });
