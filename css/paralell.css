@@ -2,8 +2,7 @@
   display: block;
 }
 
-.parcoords svg,
-.parcoords canvas {
+.parcoords svg{
   font: 10px sans-serif;
   position: absolute;
 }
@@ -118,4 +117,3 @@ td {
 #chart2 {
     padding: 25px;
 }
-

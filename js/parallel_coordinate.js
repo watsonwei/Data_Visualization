@@ -79,9 +79,7 @@ var svg_p = container.append("svg")
     .attr("width", width_2+ margin_2.left + margin_2.right)
     .attr("height", height_2+ margin_2.top + margin_2.bottom)
   .append("g")
-    .attr("transform", "translate(" + margin_2.left + "," + margin_2.top + ")")
-    .attr("preserveAspectRatio","xMinYMin meet")
-  .classed("svg-content",true);
+    .attr("transform", "translate(" + margin_2.left + "," + margin_2.top + ")");
 
 var canvas = container.append("canvas")
     .attr("width", width_2* devicePixelRatio)
