@@ -79,7 +79,9 @@ var svg_p = container.append("svg")
     .attr("width", width_2+ margin_2.left + margin_2.right)
     .attr("height", height_2+ margin_2.top + margin_2.bottom)
   .append("g")
-    .attr("transform", "translate(" + margin_2.left + "," + margin_2.top + ")");
+    .attr("transform", "translate(" + margin_2.left + "," + margin_2.top + ")")
+    .attr("preserveAspectRatio","xMinYMin meet")
+  .classed("svg-content",true);
 
 var canvas = container.append("canvas")
     .attr("width", width_2* devicePixelRatio)
@@ -102,7 +104,7 @@ var axes = svg_p.selectAll(".axis")
     .attr("class", function(d) { return "axis " + d.key.replace(/ /g, "_"); })
     .attr("transform", function(d,i) { return "translate(" + xscale(i) + ")"; });
 
-d3.csv("../data/degrees-that-pay-back.csv",
+d3.csv("data/degrees-that-pay-back.csv",
        function(d,i,columns){
        
            delete d["Starting Median Salary"];

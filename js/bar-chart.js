@@ -19,7 +19,7 @@ var color = d3.scaleOrdinal()
 
 var grouped = false;
 
-d3.csv("../data/degrees-that-pay-back.csv", function (d , i, columns){
+d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
     d.major = d[columns[0]];
     d.start = parseInt(d[columns[1]]);
     d.mid = parseInt(d[columns[2]]);

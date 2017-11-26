@@ -82,13 +82,15 @@
                     <p><strong>Salary</strong></p>
                     <p><span id="value">0</span></p>
                 </div>
-                <svg width="960" height="500" id="svg_1"></svg>
+                <div class ="svg-container">
+                  <svg class="svg-content" width="960" height="500" id="svg_1" preserveAspectRatio="xMinYMin meet"></svg>
+                </div>
             </div>
         </section>
         <section id="chart2" style="background-color: #808080">
-            <div class="mx-auto">
+            <div class="mx-auto svg-container">
                 <h2>Slope Graph of Salary by Major</h2>
-                <div id="svg_2">
+                <div class="svg-container" id="svg_2">
                 </div>
                 <div id="table_div"></div>
             </div>
@@ -103,7 +105,7 @@
                 <button class="btn btn-info" , id="button-region">Region</button>
             </div>
             <div class="row">
-                <div class="mx-auto" , id="div-geo" , style="overflow-x: scroll">
+                <div class="mx-auto svg-container" , id="div-geo" , style="overflow-x: scroll">
                 </div>
             </div>
             <div class="row">
@@ -132,7 +134,7 @@
         <script src="js/homepage.js"></script>
         <script src="js/bar-chart.js"></script>
         <script src="js/parallel_coordinate.js"></script>
-        <script src="/js/map.js"></script>
+        <script src="js/map.js"></script>
     </body>
 
 </html>

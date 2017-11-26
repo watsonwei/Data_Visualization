@@ -103,7 +103,7 @@ function bars(data) {
 
 
 }
-d3.json("/data/usa2.json", function(error, world) {
+d3.json("data/usa2.json", function(error, world) {
     svg_3.append('path')
         .attr('class', 'graticule')
         .attr('d', path);
@@ -118,7 +118,7 @@ d3.json("/data/usa2.json", function(error, world) {
         })
         .attr('stroke', 'black')
         .attr('d', path);
-    d3.csv("/data/salaries.csv", function(error, data) {
+    d3.csv("data/salaries.csv", function(error, data) {
         var state_map = {}
         var region_map = {}
         var state_data = d3.nest()
