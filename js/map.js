@@ -81,8 +81,8 @@ function bars(data) {
                 .html(d['School Name'] + "<br>" + "Start Salaries: " + parseInt(d['Starting Median Salary']).toLocaleString() + "<br>" + "Mid Salaries: " + parseInt(d['Mid-Career Median Salary']).toLocaleString());
 
             d3.select('#' + d['State'])
-                .attr('stroke-width', '6px')
-                .style('opacity', 0.9)
+                .attr('stroke-width', '5px')
+                .style('opacity', 1)
         })
         .on("mouseout", function(d) {
             tooltip.style("display", "none");
@@ -223,11 +223,15 @@ d3.json("/data/usa2.json", function(error, world) {
                         for (i = 0; i < region_avg_data.length; i++) {
                             d3.selectAll('.' + region_avg_data[i]['key'])
                                 .style('fill', function(d) { return d['color'] })
+                                
+                                .transition()
                         }
                         d3.selectAll('.' + d3.select(this).attr('class'))
                             .style('fill', function(d, i) {
                                 return color(i);
                             })
+                            .style('opacity', 1)
+                            .transition()
                         var current = region_data[region_map[d3.select(this).attr('class')]];
                         var current_state = current['key'];
                         var colleges = current['values'];
