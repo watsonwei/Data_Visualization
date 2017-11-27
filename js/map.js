@@ -47,16 +47,16 @@ function bars(data) {
     //console.log(data);
     max = data[0];
     var x = d3.scaleBand()
-        .range([25, 50 * l + 25])
+        .range([15, 30 * l + 15])
         .round(true)
         .domain(data.map(function(d, i) { return i + 1; }))
 
     var div = d3.select("body").append("div").attr("class", "toolTip");
     d3.select('#axis').call(d3.axisBottom(x));
 
-    //d3.select('#barchart').attr('width', Math.max(w + 20, 50 * data.length))
+    d3.select('#barchart').attr('width', Math.max(960, 30 * data.length))
     d3.select('#rank')
-    .transition().duration(1000).attr('x', 50 * data.length / 2 + 50)
+    .transition().duration(1000).attr('x', 30 * data.length / 2 + 30)
 
     var vis = d3.select('#barchart')
     var bars = vis.selectAll('rect.bar')
@@ -64,7 +64,7 @@ function bars(data) {
     bars.enter()
         .append("rect")
         .attr("class", "bar")
-        .attr('x', function(d, i) { return 50 + 50 * i; })
+        .attr('x', function(d, i) { return 38 + 30 * i; })
         .attr('y', function(d) { return h2})
     bars.exit()
         .remove()
@@ -76,13 +76,13 @@ function bars(data) {
             //console.log(d3.select('#' + d['State']).style('fill'));
             return d3.select('#' + d['State']).style('fill');
         })
-    .attr('x', function(d, i) { return 50 + 50 * i; })
+    .attr('x', function(d, i) { return 38 + 30 * i; })
         .attr('y', function(d) { return h2 - parseFloat(d['Starting Median Salary']) / 75000 * h2 })
 
         .attr('height', function(d) {
                 return parseFloat(d['Starting Median Salary']) / 75000 * h2
             })
-        .attr('width', 45)
+        .attr('width', 25)
 
 
     vis.selectAll('rect.bar')
