@@ -10,7 +10,9 @@
 .parcoords canvas {
   opacity: 0.9;
   pointer-events: none;
+  position: relative;
 }
+
 
 .axis .title {
   font-size: 10px;
@@ -76,7 +78,7 @@ pre {
   font-size: 10px;
   overflow: auto;
 }
-/*
+
 #table_div {
     font-size: 10px;
     width:100%;
@@ -84,7 +86,7 @@ pre {
     overflow-y: auto;
     
 }
-*/
+
 tbody {
     font-size: 10px;
     background-color: #ddd;
@@ -117,3 +119,4 @@ td {
 #chart2 {
     padding: 25px;
 }
+
