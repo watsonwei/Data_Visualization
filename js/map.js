@@ -21,10 +21,9 @@ var projection = d3.geoAlbersUsa()
     .translate([w / 2, h / 2])
 var svg2_3 = d3.select('#div-barchart').append('svg')
     .attr('id', 'barchart')
-//    .attr('width', w + 20)
-//    .attr('height', h2 + 40)
-    .attr('preserveAspectRatio',"xMinYMin meet")
-    .attr('viewBox',"0 0 900 600")
+   .attr('width', w + 20)
+    .attr('height', h2 + 40);
+
 svg2_3.append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", 0)
