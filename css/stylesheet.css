@@ -230,7 +230,7 @@ h2 {
 	position: relative;
 	width: 100%;
 	vertical-align: middle; 
-	overflow: scroll; 
+	overflow: auto; 
 }
 
 .svg-content { 
