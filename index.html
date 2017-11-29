@@ -33,13 +33,13 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#chart1">Barchart</a>
+                            <a class="nav-link js-scroll-trigger" href="#chart1">Majors</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#chart2">Parallel Coordinates</a>
+                            <a class="nav-link js-scroll-trigger" href="#chart2">Percentiles</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#chart3">Choropleth Map</a>
+                            <a class="nav-link js-scroll-trigger" href="#chart3">Map</a>
                         </li>
                     </ul>
                 </div>
@@ -66,7 +66,7 @@
             <div class="mx-auto">
                 <div>
                     <h2>Bar Chart of Major vs. Salary</h2>
-                    <p style="text-align: left;margin: 10px 20px; font-size: 15px"> This is a bar chart that shows the salary by different majors. You may select to see the bars in stacked or grouped format. You can also re-order the bars by selecting the buttons below.</p>
+                  <p style="text-align: left;margin: 10px 20px; font-size: 15px"> This is a bar chart that shows the salary by different majors. You may <b>select</b> to see the bars in stacked or grouped format. You can also re-order the bars by <b>clicking</b> the buttons below.</p>
                     <form>
                         <label>
                             <input type="radio" name="mode" value="grouped"> Grouped</label>
@@ -94,8 +94,8 @@
         <section id="chart2" class="content-section text-center" style="background-color: #808080">
             <div class="mx-auto svg-container">
               
-                <h2>Parallel Coordinates Plot of Salary by Major</h2>
-              <p style="text-align: left;  margin: 10px 20px;font-size: 15px">This is a parallel coordinate plot that shows the salary by different majors and catgorized by 10th, 25th, 75th and 90th percentile. You may drag along an axis to filter data. Filtered data is also shown in the table below the plot.</p>
+                <h2>Salary Percentile by Major</h2>
+              <p style="text-align: left;  margin: 10px 20px;font-size: 15px">This is a parallel coordinate plot that shows the salary by different majors and catgorized by 10th, 25th, 75th and 90th percentile. You may <b>drag</b> along an axis to filter data. Filtered data is also shown in the table below the plot.</p>
                 <center>
                   <div class="svg-container" id="svg_2" >
                   </div>
@@ -106,8 +106,8 @@
       
         <section id="chart3" class="content-section text-center">
             <div class="mx-auto">
-                <h2>Choropleth Map of Salary Ranks</h2>
-                <p style="text-align: left; margin: 10px 20px;font-size: 15px"> This is a choropleth map that shows the salary by different schools and regions. You may select to view the data by state or by region. Selected state/region will display the school's average starting salary in the bar chart below in descending order. You may mouse over any state or region on the map to view more detailed salary data. You may also mouse over the bar chart to view the salary data for each school.</p>
+                <h2>Map of Salary Ranks</h2>
+              <p style="text-align: left; margin: 10px 20px;font-size: 15px"> This is an interactive map that shows the salary by states or by region. <b>Click on</b> a state/region will display the school's average starting salary in the bar chart below in descending order. You may <b>mouse over</b> any state or region on the map to view more detailed salary data. You may also <b>mouse over</b> the bar chart to view the salary data for each school.</p>
                 <span>Group By: </span>
                 <button class="btn btn-info" , align-itself="center" id="button-state" ,onclick=byState()>State</button>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
