@@ -1,4 +1,4 @@
-# INF 554 Assignment 7
+# INF 554 Final Project
 
 ## Team name: WeLoveInfVis
 #### Team members: Yi Wei, Yu Ru, Longfei Li
@@ -10,7 +10,7 @@
 [https://youtu.be/zwEuKS6u4uI](https://youtu.be/zwEuKS6u4uI)
 
 ## Overleaf Paper Link
-[https://www.overleaf.com/read/tjkvzrfrkbtx](https://www.overleaf.com/read/tjkvzrfrkbtx)
+[https://www.overleaf.com/read/tjkvzrfrkbtx](https://www.overleaf.com/read/tjkvzrfrkbtx)  
 Paper is also in this repo, named `inf554-final.pdf`
 
 ## Presentation
