@@ -67,9 +67,9 @@
         </header>
         <section id="chart1" class="content-section text-center">
             <div class="mx-auto">
-                <div>
-                    <h2>Bar Chart of Major vs. Salary</h2>
-                  <p style="text-align: left;margin: 10px 20px; font-size: 15px"> This is a bar chart that shows the salary by different majors. You may <b>select</b> to see the bars in stacked or grouped format. You can also re-order the bars by <b>clicking</b> the buttons below.</p>
+                <div style="margin-bottom: 20px">
+                    <h2>Bar Chart of Major vs. Median Salary</h2>
+                  <p style="text-align: left;margin: 10px 20px; font-size: 15px"> This is a bar chart that shows the starting/mid-career median salary by different majors. You may <b>select</b> to see the bars in stacked or grouped format. You can also re-order the bars by <b>clicking</b> the buttons below.</p>
                     <form>
                         <label>
                             <input type="radio" name="mode" value="grouped"> Grouped</label>
@@ -77,14 +77,15 @@
                         <label>
                             <input type="radio" name="mode" value="stacked" checked> Stacked</label>
                     </form>
-                    <span>Sort By:</span>
-                    <button type="button" class="btn btn-primary" id="start_btn" disabled>Starting Salary</button>
-                    <button type="button" class="btn btn-primary" id="mid_btn">Mid-career Salary</button>
-                    <button type="button" class="btn btn-primary" id="alpha_btn">Alphabetical</button>
+                    <span>Sort Salary:</span>
+                    <button type="button" class="btn btn-sm btn-primary" id="start_btn" disabled>Starting Salary</button>
+                    <button type="button" class="btn btn-sm btn-primary" id="mid_btn">Mid-career Salary</button><br>
+                    <span>Sort Major:</span>
+                    <button style="margin-top: 8px; " type="button" class="btn btn-sm btn-primary" id="alpha_btn">Alphabetical</button>
                 </div>
                 
-                <div class ="svg-container">
-                  <svg class="svg-content"  id="svg_1" preserveAspectRatio="xMinYMin meet" viewBox="-150 0 1200 600"></svg>
+                <div class ="svg-container" style="height: 500px;">
+                  <svg width="960" height="500" id="svg_1"></svg>
                 </div>
               
                 <div id="tooltip" class="hidden">

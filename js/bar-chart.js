@@ -1,4 +1,4 @@
-var svg = d3.select("svg#svg_1"),
+var svg = d3.select("svg#svg_1"),//.attr("transform", "rotate(90)"),
   margin = {top: 50, right: 20, bottom: 200, left: 60},
   width = 900 - margin.left - margin.right,
   height = 500 - margin.top - margin.bottom,
@@ -32,11 +32,11 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
     if (error) throw error;
     
     var keys = data.columns.slice(1,3);
-  
+
     data.sort(function(a, b) { return b.start - a.start; });
     x.domain(data.map(function(d) { return d.major; }));
     y.domain([0, d3.max(data, function(d) { return d.total;})]).nice();
-  
+
     g.append("g")
       .selectAll("g")
       .data(d3.stack().keys(keys)(data))
@@ -87,6 +87,7 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
       .attr("text-anchor", "start")
 
   var legend = g.append("g")
+      .classed("legend",true)
       .attr("font-family", "sans-serif")
       .attr("font-size", 10)
       .attr("text-anchor", "end")
@@ -107,7 +108,8 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
       .attr("dy", "0.32em")
       .text(function(d) { return d; });
   
-  svg.append("text")             
+  svg.append("text")
+      .classed("label_1",true)
       .attr("transform",
             "translate(" + (width/2) + " ," + 
                            (height + 220) + ")")
@@ -115,6 +117,7 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
       .text("Major");
   
   svg.append("text")
+      .classed("label_2",true)
       .attr("transform", "rotate(-90)")
       .attr("y", 0)
       .attr("x",0 - (height / 2 + 30))
@@ -122,6 +125,21 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
       .style("text-anchor", "middle")
       .text("Salary ($)");
   
+  var w = window.innerWidth;
+  if(w<767){
+
+    d3.select("svg#svg_1")
+      .attr("height", 900)
+      .attr("width", 500)
+    d3.select("svg#svg_1 g")
+      .attr("transform", "translate(450 100) rotate(90)");
+    d3.select("svg#svg_1 .label_1")
+      .attr("transform", "translate(50 400) rotate(-90)");
+    d3.select("svg#svg_1 .label_2")
+      .attr("transform", "translate(500 30)");
+    d3.select("g.legend")
+      .attr("transform", "translate(-50 1100) rotate(-90)");
+  }
   //handle button clicks
   
   d3.select("#start_btn").on("click", function () {
@@ -208,14 +226,8 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
   d3.selectAll("input")
     .on("change", changed);
   
-  var timeout = d3.timeout(function() {
-    d3.select("input[value=\"grouped\"]")
-        .property("checked", true)
-        .dispatch("change");
-  }, 2000);
-  
   function changed() {
-    timeout.stop();
+    // timeout.stop();
     if (this.value === "grouped") transitionGrouped();
     else transitionStacked();
   }
@@ -247,5 +259,39 @@ d3.csv("data/degrees-that-pay-back.csv", function (d , i, columns){
         .attr("x", function(d, i) { return x(d.data.major); })
         .attr("width", x.bandwidth());
   }
+  
+  d3.select(window)
+  .on("resize", function() {
+    var w = window.innerWidth;
+    if(w<767){
+      d3.select("svg#svg_1")
+        .attr("height", 900)
+        .attr("width", 500)
+      d3.select("svg#svg_1 g")
+        .attr("transform", "translate(450 100) rotate(90)");
+      d3.select("svg#svg_1 .label_1")
+        .attr("transform", "translate(50 400) rotate(-90)");
+      d3.select("svg#svg_1 .label_2")
+        .attr("transform", "translate(500 30)");
+      d3.select("g.legend")
+        .attr("transform", "translate(-50 1100) rotate(-90)");
+    }
+    else{
+      d3.select("svg#svg_1")
+        .attr("transform", null)
+        .attr("height", 500)
+        .attr("width", 900)
+        
+      d3.select("svg#svg_1 g")
+        .attr("transform", "translate(60,50)");
+      d3.select("svg#svg_1 .label_1")
+        .attr("transform", "translate(" + (width/2) + " ," + 
+                           (height + 220) + ")");
+      d3.select("svg#svg_1 .label_2")
+        .attr("transform", "rotate(-90)");
+      d3.select("g.legend")
+        .attr("transform", null);
+    }
+  });
 });
 

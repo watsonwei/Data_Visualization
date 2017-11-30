@@ -330,7 +330,7 @@ d3.json("data/usa2.json", function(error, world) {
             .attr('height', 20)
             .style('fill', function(d){
               var res = parseInt((d) * 3000 / 20000 * 255);
-              console.log(res);
+              //console.log(res);
 
               return 'rgb(' + (res - 100) + ',' + res  + ', ' + res + ')'
             })
