@@ -92,7 +92,7 @@ var canvas = container.append("canvas")
 var ctx = canvas.node().getContext("2d");
 ctx.globalCompositeOperation = 'darken';
 ctx.globalAlpha = 0.15;
-ctx.linewidth = 1.5;
+ctx.lineWidth = 2;
 ctx.scale(devicePixelRatio, devicePixelRatio);
 var header=d3.select("body").append("h3");
 var count = 0;
@@ -171,7 +171,7 @@ d3.csv("data/degrees-that-pay-back.csv",
     .selectAll("rect")
       .attr("x", -8)
       .attr("width", 16);
-
+brushes=d3.selectAll(".brush");
   d3.selectAll(".axis.Undergraduate_Major .tick text")
     .style("fill", color_p);
 //  header.text(d3.tsvFormat(data.slice(0)));
@@ -288,11 +288,17 @@ var columns = ["Undergraduate Major","Mid-Career 10th Percentile Salary","Mid-Ca
     });
     ctx.clearRect(0,0,width_2,height_2);
     ctx.globalAlpha = d3.min([0.85/Math.pow(selected.length,0.3),1]);
+    
+    if(selected.length==data.length){
+        ctx.lineWidth=2;
+    }
+        else{ctx.lineWidth=4;}
     render(selected);
   document.getElementById("data_table").innerHTML = "";
   makeATable(selected,columns);
   }
 });
+
 
 function d3_functor(v) {
   return typeof v === "function" ? v : function() { return v; };
