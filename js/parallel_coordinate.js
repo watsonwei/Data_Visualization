@@ -9,7 +9,7 @@ var devicePixelRatio = window.devicePixelRatio || 1;
 //  .range(["#5DA5B3","#D58323","#DD6CA7","#54AF52","#8C92E8","#E15E5A","#725D82","#776327","#50AB84","#954D56","#AB9C27","#517C3F","#9D5130","#357468","#5E9ACF","#C47DCB","#7D9E33","#DB7F85","#BA89AD","#4C6C86","#B59248","#D8597D","#944F7E","#D67D4B","#8F86C2"]);
 
 
-var color_p = d3.scaleOrdinal().range(d3.schemeSpectral[10]);
+var color_p=d3.scaleOrdinal().range(["#fff","#ffe6f9","#ffe6e6","#FFC1C1","#ffb3ff","#FB7F7D","#FB927D","#FBB17D","#FF4633","#FF6E33","#FF9033","#FFA833","#FFD433","#ffff66","#FFF633","#FFFF00","#E9FF33","#e6ffcc","#CEFF33","#ACFF33","#83FF33","#46FF33","#33FF5E","#33FF86","#33FFA5","#33FFD1","#b3ffff","#33FFF9","#33DDFF","#80e5ff","#00bfff","#b3b3ff","#333FFF","#4C33FF","#6B33FF","#8A33FF","#ff99dd","#ff66cc","#ff4dff","#E333FF","#FC33FF","#FF33CA","#FF33A8","#FF338A","#FF3371","#FF3358","#FF333F","#FB7DB8","#FB7D9F","#FB7D87"]);
 
 
 var types = {
