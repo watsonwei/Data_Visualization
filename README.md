@@ -11,7 +11,7 @@
 
 ## Overleaf Paper Link
 [https://www.overleaf.com/read/tjkvzrfrkbtx](https://www.overleaf.com/read/tjkvzrfrkbtx)  
-Paper is also in this repo, named `inf554-final.pdf`
+Paper is also in this repo, named `inf554-final.pdf`, or click [here](https://github.com/INF554Fall17/project-weloveinfovis/blob/master/inf554-final.pdf)
 
 ## Presentation
-Sozi slides and PDF are in the `presentation` folder of this repo.
+Sozi slides and PDF are in the `presentation` folder of this repo. PDF link is [here](https://github.com/INF554Fall17/project-weloveinfovis/blob/master/presentation/inf554-final.sozi.pdf)
